@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find patrolling_sim)/launch/rviz_1.launch" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_control
+
+Name: warthog_control
+Description: Description of warthog_control
+Version: 0.1.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

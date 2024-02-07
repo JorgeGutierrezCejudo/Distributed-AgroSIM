@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install
+
+Name: cpr_orchard_gazebo
+Description: Description of cpr_orchard_gazebo
+Version: 0.2.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

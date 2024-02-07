@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_description
+
+Name: warthog_description
+Description: Description of warthog_description
+Version: 0.1.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

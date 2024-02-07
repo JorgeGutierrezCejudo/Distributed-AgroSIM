@@ -1,0 +1,4 @@
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib/pkgconfig/ros_tcp_endpoint.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib/python3/dist-packages/ros_tcp_endpoint/__init__.py
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig-version.cmake

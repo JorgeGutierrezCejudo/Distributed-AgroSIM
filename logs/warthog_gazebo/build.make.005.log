@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target warthog_suspension_plugin[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/warthog_suspension_plugin.dir/src/warthog_suspension_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_gazebo/lib/libwarthog_suspension_plugin.so[0m
+[100%] Built target warthog_suspension_plugin

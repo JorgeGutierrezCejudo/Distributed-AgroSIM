@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_gazebo
+
+Name: warthog_gazebo
+Description: Description of warthog_gazebo
+Version: 0.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_ros roscpp

@@ -1,0 +1,7 @@
+<launch>
+  <arg name="x" value="97"/>
+  <arg name="y" value="86"/>
+  <arg name="z" value="0.15"/>
+  <arg name="yaw" value="2.5477993043534894"/>
+  <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" args="-urdf -model robot_4 -param robot_description -x $(arg x) -y $(arg y) -z $(arg z) -R 0 -P 0 -Y $(arg yaw)"/>
+</launch>

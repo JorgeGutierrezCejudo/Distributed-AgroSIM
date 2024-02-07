@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/cpr_accessories_gazebo
+
+Name: cpr_accessories_gazebo
+Description: Description of cpr_accessories_gazebo
+Version: 0.2.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,20 @@
+<launch>
+    <arg name="robotname"/>
+    <arg name="config" default="base" />
+
+   
+    <!-- Load Warthog's description, controllers, and teleop nodes. -->
+    <include file="$(find warthog_description)/launch/description.launch">
+      <arg name="robotname"  value="$(arg robotname)" />
+    </include>
+
+    <!-- joint_state_publisher is needed to pushish the suspension joints. -->
+      <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+        <include file="$(find warthog_control)/launch/control.launch" >
+              <arg name="robotname"  value="$(arg robotname)" />
+        </include>
+      
+    <include file="$(find patrolling_sim)/params/spawner/$(arg robotname)_spawner.xml" >
+    </include>
+    <!-- Spawn Warthog -->
+</launch>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Configuration of Warthog which you would like to simulate.
+       See warthog_description for details. -->
+  <arg name="config" default="base" />
+  <arg name="x" default="15" />
+  <arg name="y" default="27" />
+  <arg name="z" default="1" />
+  <arg name="yaw" default="0" /> 
+<!-- Parametros para spwa muliples robots -->
+  <arg name="robotname" default="warthog" />
+  <arg name="mapname" default="grid" /> 
+  <arg name="use_amcl" default="true" />
+  <arg name="use_move_base" default="true" />
+
+    <param name="robot_description"
+    command="$(find xacro)/xacro $(find warthog_description)/urdf/warthog.urdf.xacro" />
+
+  
+    <!-- Load Warthog's description, controllers, and teleop nodes. -->
+    <include file="$(find warthog_description)/launch/description.launch">
+      <arg name="config" value="$(arg config)" />
+    </include>
+
+    <!-- joint_state_publisher is needed to pushish the suspension joints. -->
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+    <include file="$(find warthog_control)/launch/control.launch" />
+
+    <!-- Spawn Warthog -->
+    <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model"
+          args="-urdf -model $(arg robotname) -param robot_description -x $(arg x) -y $(arg y) -z $(arg z) -R 0 -P 0 -Y $(arg yaw)" />
+  
+</launch>

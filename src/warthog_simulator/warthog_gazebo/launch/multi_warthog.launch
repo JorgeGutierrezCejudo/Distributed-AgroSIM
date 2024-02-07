@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<launch>
+  <param name="robot_description"
+    command="$(find xacro)/xacro $(find warthog_description)/urdf/warthog.urdfBig.xacro"/>
+  <arg name="robotname" default="robot_0"/>
+  <arg name="mapname" default="vineyard" /> 
+  <arg name="use_perfect" default="false" />
+
+
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find patrolling_sim)/maps/$(arg mapname)/$(arg mapname).yaml" />
+   
+  <group ns="$(arg robotname)"> 
+  <!-- BEGIN ROBOT 1-->
+    <param name="tf_prefix" value="$(arg robotname)" />
+    <include file="$(find warthog_gazebo)/launch/spawn_warthog_one.launch" >
+      <arg name="robotname"  value="$(arg robotname)" />
+    </include>
+
+    <group if="$(arg use_perfect)">
+      <!-- Aqui lanzar el launch que inicia la localización perfecta-->
+        <include file="$(find navigation)/src/launch/perfectlocalization.launch" >
+          <arg name="robotname"  value="$(arg robotname)" />
+        </include>
+    </group>
+  </group>
+  
+
+
+
+</launch>

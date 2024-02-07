@@ -1,0 +1,10 @@
+[Config]
+map: vineyard
+nrobots: 4
+algorithm: ATA
+locmode: perfect_localization
+navmode: ros
+gwait: 0
+term: gnome-terminal
+simulator: gazebo
+grafo: PY_VAR10

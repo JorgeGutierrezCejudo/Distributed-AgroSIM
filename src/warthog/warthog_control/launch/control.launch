@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="robotname" default="robot_0"/>
+  <arg name="config_extras"
+       default="$(eval optenv('WARTHOG_CONFIG_EXTRAS', find('warthog_control') + '/config/empty.yaml'))"/>
+  <arg name="use_ekf" default="false" />
+  
+<!-- Spawn controller of the movement of Warthog-->
+<rosparam command="load" file="$(find warthog_control)/config/control.yaml" ns="/$(arg robotname)" /> 
+<node name="controller_spawner" pkg="controller_manager" type="spawner"
+      args="--namespace=/$(arg robotname) joint_state_controller drive_controller  --timeout 10" > 
+</node>
+
+
+<!-- Node of localization of ekf_localiztion-->
+<group if="$(arg use_ekf)">
+
+      <node pkg="robot_localization" type="ekf_localization_node" name="ekf_localization">
+      <param name="ekf_localization/map_frame" value="map"/>
+      </node> 
+         
+</group>
+
+<!-- Extra config-->
+  <rosparam command="load" file="$(arg config_extras)" />
+</launch>

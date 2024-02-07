@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="x" value="4"/>
+  <arg name="y" value="0"/>
+  <arg name="treenumber" value="Vine_growth_03"/>
+
+
+<!-- push table_description to factory and spawn robot in gazebo -->
+<node name="spawn_tree" pkg="gazebo_ros" type="spawn_model" args="-file $(find warthog_description)/urdf/tree.urdf -urdf -x $(arg x) -y $(arg y) -z 0 -model $(arg treenumber)" respawn="false" output="screen" />
+</launch>

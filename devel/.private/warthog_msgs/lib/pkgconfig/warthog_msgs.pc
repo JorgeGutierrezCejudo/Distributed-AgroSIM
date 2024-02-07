@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_msgs
+
+Name: warthog_msgs
+Description: Description of warthog_msgs
+Version: 0.1.8
+Cflags: -I/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

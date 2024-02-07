@@ -1,0 +1,4 @@
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib/libwarthog_suspension_plugin.so
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib/pkgconfig/warthog_gazebo.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/warthog_gazebo/cmake/warthog_gazeboConfig-version.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/warthog_gazebo/cmake/warthog_gazeboConfig.cmake

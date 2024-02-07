@@ -1,0 +1,1 @@
+/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/rviz_textured_quads/lib/python3/dist-packages/rviz_textured_quads/__init__.py

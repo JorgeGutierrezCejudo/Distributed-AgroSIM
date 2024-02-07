@@ -1,0 +1,1 @@
+/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/rviz_textured_quads/share/roseus/ros/rviz_textured_quads/msg/TexturedQuad.l

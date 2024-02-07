@@ -1,0 +1,1 @@
+/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/stage_ros/share/stage_ros/cmake/stage_rosConfig.cmake

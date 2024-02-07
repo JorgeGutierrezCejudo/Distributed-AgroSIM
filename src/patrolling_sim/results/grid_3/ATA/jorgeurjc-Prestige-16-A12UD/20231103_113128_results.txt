@@ -1,0 +1,7560 @@
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1254.554077
+   Robot 1 travel :1875.495605
+   Robot 2 travel :586.676819
+   Robot 1 travel the most:1875.495605
+   Robot 2 travel the lest:586.676819
+   Total distance travel of all robots: 3716.726562
+   Median: 1238.908813
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.7
+Real Time Elapsed	1699007502.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1254.554077
+   Robot 1 travel :1875.495605
+   Robot 2 travel :586.676819
+   Robot 1 travel the most:1875.495605
+   Robot 2 travel the lest:586.676819
+   Total distance travel of all robots: 7433.453125
+   Median: 2477.817627
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.7
+Real Time Elapsed	1699007502.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1283.729736
+   Robot 1 travel :1919.111816
+   Robot 2 travel :613.964050
+   Robot 1 travel the most:1919.111816
+   Robot 2 travel the lest:613.964050
+   Total distance travel of all robots: 11250.258789
+   Median: 3750.086182
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.8
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1342.080933
+   Robot 1 travel :2006.344238
+   Robot 2 travel :627.607666
+   Robot 1 travel the most:2006.344238
+   Robot 2 travel the lest:627.607666
+   Total distance travel of all robots: 15226.291016
+   Median: 5075.430176
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.8
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1342.080933
+   Robot 1 travel :2006.344238
+   Robot 2 travel :627.607666
+   Robot 1 travel the most:2006.344238
+   Robot 2 travel the lest:627.607666
+   Total distance travel of all robots: 19202.322266
+   Median: 6400.773926
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.9
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1342.080933
+   Robot 1 travel :2006.344238
+   Robot 2 travel :627.607666
+   Robot 1 travel the most:2006.344238
+   Robot 2 travel the lest:627.607666
+   Total distance travel of all robots: 23178.353516
+   Median: 7726.117676
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.9
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1371.256592
+   Robot 1 travel :2049.960449
+   Robot 2 travel :641.251282
+   Robot 1 travel the most:2049.960449
+   Robot 2 travel the lest:641.251282
+   Total distance travel of all robots: 27240.822266
+   Median: 9080.274414
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	231.9
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1371.256592
+   Robot 1 travel :2049.960449
+   Robot 2 travel :641.251282
+   Robot 1 travel the most:2049.960449
+   Robot 2 travel the lest:641.251282
+   Total distance travel of all robots: 31303.291016
+   Median: 10434.430664
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.2
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1371.256592
+   Robot 1 travel :2049.960449
+   Robot 2 travel :641.251282
+   Robot 1 travel the most:2049.960449
+   Robot 2 travel the lest:641.251282
+   Total distance travel of all robots: 35365.757812
+   Median: 11788.585938
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.2
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1371.256592
+   Robot 1 travel :2049.960449
+   Robot 2 travel :641.251282
+   Robot 1 travel the most:2049.960449
+   Robot 2 travel the lest:641.251282
+   Total distance travel of all robots: 39428.226562
+   Median: 13142.742188
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.3
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1400.432373
+   Robot 1 travel :2093.576660
+   Robot 2 travel :654.894897
+   Robot 1 travel the most:2093.576660
+   Robot 2 travel the lest:654.894897
+   Total distance travel of all robots: 43577.132812
+   Median: 14525.710938
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.3
+Real Time Elapsed	1699007503.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1429.608276
+   Robot 1 travel :2137.192871
+   Robot 2 travel :668.538513
+   Robot 1 travel the most:2137.192871
+   Robot 2 travel the lest:668.538513
+   Total distance travel of all robots: 47812.472656
+   Median: 15937.491211
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.4
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1458.784180
+   Robot 1 travel :2180.809082
+   Robot 2 travel :682.182129
+   Robot 1 travel the most:2180.809082
+   Robot 2 travel the lest:682.182129
+   Total distance travel of all robots: 52134.250000
+   Median: 17378.083984
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.4
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1458.784180
+   Robot 1 travel :2180.809082
+   Robot 2 travel :682.182129
+   Robot 1 travel the most:2180.809082
+   Robot 2 travel the lest:682.182129
+   Total distance travel of all robots: 56456.027344
+   Median: 18818.675781
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.4
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1487.960083
+   Robot 1 travel :2224.425293
+   Robot 2 travel :695.825745
+   Robot 1 travel the most:2224.425293
+   Robot 2 travel the lest:695.825745
+   Total distance travel of all robots: 60864.238281
+   Median: 20288.080078
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.8
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1487.960083
+   Robot 1 travel :2224.425293
+   Robot 2 travel :695.825745
+   Robot 1 travel the most:2224.425293
+   Robot 2 travel the lest:695.825745
+   Total distance travel of all robots: 65272.449219
+   Median: 21757.482422
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.8
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1487.960083
+   Robot 1 travel :2224.425293
+   Robot 2 travel :695.825745
+   Robot 1 travel the most:2224.425293
+   Robot 2 travel the lest:695.825745
+   Total distance travel of all robots: 69680.656250
+   Median: 23226.884766
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.9
+Real Time Elapsed	1699007504.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1546.311890
+   Robot 1 travel :2311.657715
+   Robot 2 travel :723.112976
+   Robot 1 travel the most:2311.657715
+   Robot 2 travel the lest:723.112976
+   Total distance travel of all robots: 74261.734375
+   Median: 24753.912109
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.9
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1546.311890
+   Robot 1 travel :2311.657715
+   Robot 2 travel :723.112976
+   Robot 1 travel the most:2311.657715
+   Robot 2 travel the lest:723.112976
+   Total distance travel of all robots: 78842.812500
+   Median: 26280.937500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.9
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1575.487793
+   Robot 1 travel :2355.273926
+   Robot 2 travel :736.756592
+   Robot 1 travel the most:2355.273926
+   Robot 2 travel the lest:736.756592
+   Total distance travel of all robots: 83510.328125
+   Median: 27836.775391
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	232.9
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1575.487793
+   Robot 1 travel :2355.273926
+   Robot 2 travel :736.756592
+   Robot 1 travel the most:2355.273926
+   Robot 2 travel the lest:736.756592
+   Total distance travel of all robots: 88177.843750
+   Median: 29392.615234
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.0
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1575.487793
+   Robot 1 travel :2355.273926
+   Robot 2 travel :750.400208
+   Robot 1 travel the most:2355.273926
+   Robot 2 travel the lest:750.400208
+   Total distance travel of all robots: 92859.000000
+   Median: 30953.000000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.0
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1604.663696
+   Robot 1 travel :2398.890137
+   Robot 2 travel :750.400208
+   Robot 1 travel the most:2398.890137
+   Robot 2 travel the lest:750.400208
+   Total distance travel of all robots: 97612.953125
+   Median: 32537.650391
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.3
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1604.663696
+   Robot 1 travel :2398.890137
+   Robot 2 travel :750.400208
+   Robot 1 travel the most:2398.890137
+   Robot 2 travel the lest:750.400208
+   Total distance travel of all robots: 102366.906250
+   Median: 34122.300781
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.3
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1604.663696
+   Robot 1 travel :2398.890137
+   Robot 2 travel :750.400208
+   Robot 1 travel the most:2398.890137
+   Robot 2 travel the lest:750.400208
+   Total distance travel of all robots: 107120.859375
+   Median: 35706.953125
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.4
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1663.015747
+   Robot 1 travel :2486.122559
+   Robot 2 travel :777.687439
+   Robot 1 travel the most:2486.122559
+   Robot 2 travel the lest:777.687439
+   Total distance travel of all robots: 112047.687500
+   Median: 37349.230469
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.4
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1663.015747
+   Robot 1 travel :2486.122559
+   Robot 2 travel :777.687439
+   Robot 1 travel the most:2486.122559
+   Robot 2 travel the lest:777.687439
+   Total distance travel of all robots: 116974.515625
+   Median: 38991.503906
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.4
+Real Time Elapsed	1699007505.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1663.015747
+   Robot 1 travel :2486.122559
+   Robot 2 travel :777.687439
+   Robot 1 travel the most:2486.122559
+   Robot 2 travel the lest:777.687439
+   Total distance travel of all robots: 121901.343750
+   Median: 40633.781250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.5
+Real Time Elapsed	1699007506.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1692.191772
+   Robot 1 travel :2529.738770
+   Robot 2 travel :791.330994
+   Robot 1 travel the most:2529.738770
+   Robot 2 travel the lest:791.330994
+   Total distance travel of all robots: 126914.609375
+   Median: 42304.871094
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.5
+Real Time Elapsed	1699007506.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1721.367798
+   Robot 1 travel :2573.354980
+   Robot 2 travel :804.974548
+   Robot 1 travel the most:2573.354980
+   Robot 2 travel the lest:804.974548
+   Total distance travel of all robots: 132014.296875
+   Median: 44004.765625
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.9
+Real Time Elapsed	1699007506.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1750.543823
+   Robot 1 travel :2616.971191
+   Robot 2 travel :832.261719
+   Robot 1 travel the most:2616.971191
+   Robot 2 travel the lest:832.261719
+   Total distance travel of all robots: 137214.078125
+   Median: 45738.027344
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	233.9
+Real Time Elapsed	1699007506.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1750.543823
+   Robot 1 travel :2616.971191
+   Robot 2 travel :832.261719
+   Robot 1 travel the most:2616.971191
+   Robot 2 travel the lest:832.261719
+   Total distance travel of all robots: 142413.859375
+   Median: 47471.285156
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.2
+Real Time Elapsed	1699007507.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1779.719971
+   Robot 1 travel :2660.587402
+   Robot 2 travel :832.261719
+   Robot 1 travel the most:2660.587402
+   Robot 2 travel the lest:832.261719
+   Total distance travel of all robots: 147686.437500
+   Median: 49228.812500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.2
+Real Time Elapsed	1699007507.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1779.719971
+   Robot 1 travel :2660.587402
+   Robot 2 travel :845.905273
+   Robot 1 travel the most:2660.587402
+   Robot 2 travel the lest:845.905273
+   Total distance travel of all robots: 152972.656250
+   Median: 50990.886719
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.2
+Real Time Elapsed	1699007507.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1838.072510
+   Robot 1 travel :2747.819824
+   Robot 2 travel :859.548889
+   Robot 1 travel the most:2747.819824
+   Robot 2 travel the lest:859.548889
+   Total distance travel of all robots: 158418.093750
+   Median: 52806.031250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.3
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1838.072510
+   Robot 1 travel :2747.819824
+   Robot 2 travel :859.548889
+   Robot 1 travel the most:2747.819824
+   Robot 2 travel the lest:859.548889
+   Total distance travel of all robots: 163863.531250
+   Median: 54621.175781
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.3
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1867.248779
+   Robot 1 travel :2791.436035
+   Robot 2 travel :873.192505
+   Robot 1 travel the most:2791.436035
+   Robot 2 travel the lest:873.192505
+   Total distance travel of all robots: 169395.406250
+   Median: 56465.136719
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.4
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1896.425049
+   Robot 1 travel :2791.436035
+   Robot 2 travel :886.836121
+   Robot 1 travel the most:2791.436035
+   Robot 2 travel the lest:886.836121
+   Total distance travel of all robots: 174970.109375
+   Median: 58323.371094
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.4
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1896.425049
+   Robot 1 travel :2835.052246
+   Robot 2 travel :886.836121
+   Robot 1 travel the most:2835.052246
+   Robot 2 travel the lest:886.836121
+   Total distance travel of all robots: 180588.421875
+   Median: 60196.140625
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.8
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1925.601440
+   Robot 1 travel :2878.668457
+   Robot 2 travel :900.479736
+   Robot 1 travel the most:2878.668457
+   Robot 2 travel the lest:900.479736
+   Total distance travel of all robots: 186293.171875
+   Median: 62097.722656
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	234.8
+Real Time Elapsed	1699007508.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1925.601440
+   Robot 1 travel :2878.668457
+   Robot 2 travel :900.479736
+   Robot 1 travel the most:2878.668457
+   Robot 2 travel the lest:900.479736
+   Total distance travel of all robots: 191997.921875
+   Median: 63999.308594
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.1
+Real Time Elapsed	1699007509.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1954.777832
+   Robot 1 travel :2922.284668
+   Robot 2 travel :914.123291
+   Robot 1 travel the most:2922.284668
+   Robot 2 travel the lest:914.123291
+   Total distance travel of all robots: 197789.109375
+   Median: 65929.703125
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.1
+Real Time Elapsed	1699007509.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1954.777832
+   Robot 1 travel :2922.284668
+   Robot 2 travel :914.123291
+   Robot 1 travel the most:2922.284668
+   Robot 2 travel the lest:914.123291
+   Total distance travel of all robots: 203580.296875
+   Median: 67860.101562
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.1
+Real Time Elapsed	1699007509.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :1983.954224
+   Robot 1 travel :2965.900879
+   Robot 2 travel :927.766846
+   Robot 1 travel the most:2965.900879
+   Robot 2 travel the lest:927.766846
+   Total distance travel of all robots: 209457.921875
+   Median: 69819.304688
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.2
+Real Time Elapsed	1699007509.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2013.130005
+   Robot 1 travel :3009.517090
+   Robot 2 travel :941.410461
+   Robot 1 travel the most:3009.517090
+   Robot 2 travel the lest:941.410461
+   Total distance travel of all robots: 215421.968750
+   Median: 71807.320312
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.2
+Real Time Elapsed	1699007509.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2013.130005
+   Robot 1 travel :3009.517090
+   Robot 2 travel :941.410461
+   Robot 1 travel the most:3009.517090
+   Robot 2 travel the lest:941.410461
+   Total distance travel of all robots: 221386.015625
+   Median: 73795.335938
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.2
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2042.304321
+   Robot 1 travel :3053.133301
+   Robot 2 travel :955.054077
+   Robot 1 travel the most:3053.133301
+   Robot 2 travel the lest:955.054077
+   Total distance travel of all robots: 227436.500000
+   Median: 75812.164062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.3
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2071.477051
+   Robot 1 travel :3096.749512
+   Robot 2 travel :968.697693
+   Robot 1 travel the most:3096.749512
+   Robot 2 travel the lest:968.697693
+   Total distance travel of all robots: 233573.437500
+   Median: 77857.812500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.3
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2071.477051
+   Robot 1 travel :3096.749512
+   Robot 2 travel :968.697693
+   Robot 1 travel the most:3096.749512
+   Robot 2 travel the lest:968.697693
+   Total distance travel of all robots: 239710.375000
+   Median: 79903.460938
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.6
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2071.477051
+   Robot 1 travel :3096.749512
+   Robot 2 travel :982.341248
+   Robot 1 travel the most:3096.749512
+   Robot 2 travel the lest:982.341248
+   Total distance travel of all robots: 245860.953125
+   Median: 81953.648438
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.6
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2071.477051
+   Robot 1 travel :3096.749512
+   Robot 2 travel :982.341248
+   Robot 1 travel the most:3096.749512
+   Robot 2 travel the lest:982.341248
+   Total distance travel of all robots: 252011.531250
+   Median: 84003.843750
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.7
+Real Time Elapsed	1699007510.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2100.628174
+   Robot 1 travel :3140.365723
+   Robot 2 travel :982.341248
+   Robot 1 travel the most:3140.365723
+   Robot 2 travel the lest:982.341248
+   Total distance travel of all robots: 258234.859375
+   Median: 86078.289062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.7
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2129.773682
+   Robot 1 travel :3183.981934
+   Robot 2 travel :995.984802
+   Robot 1 travel the most:3183.981934
+   Robot 2 travel the lest:995.984802
+   Total distance travel of all robots: 264544.625000
+   Median: 88181.539062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.8
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2158.916016
+   Robot 1 travel :3227.598145
+   Robot 2 travel :1009.628357
+   Robot 1 travel the most:3227.598145
+   Robot 2 travel the lest:1009.628357
+   Total distance travel of all robots: 270940.750000
+   Median: 90313.585938
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.8
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2158.916016
+   Robot 1 travel :3227.598145
+   Robot 2 travel :1009.628357
+   Robot 1 travel the most:3227.598145
+   Robot 2 travel the lest:1009.628357
+   Total distance travel of all robots: 277336.875000
+   Median: 92445.625000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	235.8
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2188.053711
+   Robot 1 travel :3271.214355
+   Robot 2 travel :1023.271912
+   Robot 1 travel the most:3271.214355
+   Robot 2 travel the lest:1023.271912
+   Total distance travel of all robots: 283819.437500
+   Median: 94606.476562
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.2
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2217.185303
+   Robot 1 travel :3314.830566
+   Robot 2 travel :1036.915527
+   Robot 1 travel the most:3314.830566
+   Robot 2 travel the lest:1036.915527
+   Total distance travel of all robots: 290388.375000
+   Median: 96796.125000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.2
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2217.185303
+   Robot 1 travel :3314.830566
+   Robot 2 travel :1036.915527
+   Robot 1 travel the most:3314.830566
+   Robot 2 travel the lest:1036.915527
+   Total distance travel of all robots: 296957.312500
+   Median: 98985.773438
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.2
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2275.360107
+   Robot 1 travel :3402.062988
+   Robot 2 travel :1064.202637
+   Robot 1 travel the most:3402.062988
+   Robot 2 travel the lest:1064.202637
+   Total distance travel of all robots: 303698.937500
+   Median: 101232.976562
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.3
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2275.360107
+   Robot 1 travel :3402.062988
+   Robot 2 travel :1064.202637
+   Robot 1 travel the most:3402.062988
+   Robot 2 travel the lest:1064.202637
+   Total distance travel of all robots: 310440.562500
+   Median: 103480.187500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.3
+Real Time Elapsed	1699007511.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2275.360107
+   Robot 1 travel :3402.062988
+   Robot 2 travel :1064.202637
+   Robot 1 travel the most:3402.062988
+   Robot 2 travel the lest:1064.202637
+   Total distance travel of all robots: 317182.187500
+   Median: 105727.398438
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.3
+Real Time Elapsed	1699007512.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2304.431885
+   Robot 1 travel :3445.679199
+   Robot 2 travel :1077.846191
+   Robot 1 travel the most:3445.679199
+   Robot 2 travel the lest:1077.846191
+   Total distance travel of all robots: 324010.156250
+   Median: 108003.382812
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.4
+Real Time Elapsed	1699007512.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2333.492188
+   Robot 1 travel :3489.295410
+   Robot 2 travel :1091.489746
+   Robot 1 travel the most:3489.295410
+   Robot 2 travel the lest:1091.489746
+   Total distance travel of all robots: 330924.437500
+   Median: 110308.148438
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.7
+Real Time Elapsed	1699007512.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2333.492188
+   Robot 1 travel :3489.295410
+   Robot 2 travel :1091.489746
+   Robot 1 travel the most:3489.295410
+   Robot 2 travel the lest:1091.489746
+   Total distance travel of all robots: 337838.718750
+   Median: 112612.906250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	236.7
+Real Time Elapsed	1699007512.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2333.492188
+   Robot 1 travel :3489.295410
+   Robot 2 travel :1091.489746
+   Robot 1 travel the most:3489.295410
+   Robot 2 travel the lest:1091.489746
+   Total distance travel of all robots: 344753.000000
+   Median: 114917.664062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.1
+Real Time Elapsed	1699007513.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2362.474609
+   Robot 1 travel :3532.911621
+   Robot 2 travel :1105.133301
+   Robot 1 travel the most:3532.911621
+   Robot 2 travel the lest:1105.133301
+   Total distance travel of all robots: 351753.500000
+   Median: 117251.164062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.1
+Real Time Elapsed	1699007513.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2362.474609
+   Robot 1 travel :3532.911621
+   Robot 2 travel :1105.133301
+   Robot 1 travel the most:3532.911621
+   Robot 2 travel the lest:1105.133301
+   Total distance travel of all robots: 358754.000000
+   Median: 119584.664062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.1
+Real Time Elapsed	1699007513.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2391.439453
+   Robot 1 travel :3576.527832
+   Robot 2 travel :1118.776855
+   Robot 1 travel the most:3576.527832
+   Robot 2 travel the lest:1118.776855
+   Total distance travel of all robots: 365840.750000
+   Median: 121946.914062
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.1
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2420.403076
+   Robot 1 travel :3620.144043
+   Robot 2 travel :1132.420410
+   Robot 1 travel the most:3620.144043
+   Robot 2 travel the lest:1132.420410
+   Total distance travel of all robots: 373013.718750
+   Median: 124337.906250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.2
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2420.403076
+   Robot 1 travel :3620.144043
+   Robot 2 travel :1132.420410
+   Robot 1 travel the most:3620.144043
+   Robot 2 travel the lest:1132.420410
+   Total distance travel of all robots: 380186.687500
+   Median: 126728.898438
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.2
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2449.364990
+   Robot 1 travel :3663.760254
+   Robot 2 travel :1146.063965
+   Robot 1 travel the most:3663.760254
+   Robot 2 travel the lest:1146.063965
+   Total distance travel of all robots: 387445.875000
+   Median: 129148.625000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.2
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2478.324219
+   Robot 1 travel :3707.376465
+   Robot 2 travel :1159.707520
+   Robot 1 travel the most:3707.376465
+   Robot 2 travel the lest:1159.707520
+   Total distance travel of all robots: 394791.281250
+   Median: 131597.093750
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.6
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2478.324219
+   Robot 1 travel :3707.376465
+   Robot 2 travel :1159.707520
+   Robot 1 travel the most:3707.376465
+   Robot 2 travel the lest:1159.707520
+   Total distance travel of all robots: 402136.687500
+   Median: 134045.562500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.6
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2478.324219
+   Robot 1 travel :3707.376465
+   Robot 2 travel :1159.707520
+   Robot 1 travel the most:3707.376465
+   Robot 2 travel the lest:1159.707520
+   Total distance travel of all robots: 409482.093750
+   Median: 136494.031250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.7
+Real Time Elapsed	1699007514.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2536.172363
+   Robot 1 travel :3794.608887
+   Robot 2 travel :1186.994629
+   Robot 1 travel the most:3794.608887
+   Robot 2 travel the lest:1186.994629
+   Total distance travel of all robots: 416999.875000
+   Median: 138999.953125
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.7
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2536.172363
+   Robot 1 travel :3794.608887
+   Robot 2 travel :1186.994629
+   Robot 1 travel the most:3794.608887
+   Robot 2 travel the lest:1186.994629
+   Total distance travel of all robots: 424517.656250
+   Median: 141505.890625
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.7
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2536.172363
+   Robot 1 travel :3794.608887
+   Robot 2 travel :1186.994629
+   Robot 1 travel the most:3794.608887
+   Robot 2 travel the lest:1186.994629
+   Total distance travel of all robots: 432035.437500
+   Median: 144011.812500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.7
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2565.084229
+   Robot 1 travel :3838.225098
+   Robot 2 travel :1200.638184
+   Robot 1 travel the most:3838.225098
+   Robot 2 travel the lest:1200.638184
+   Total distance travel of all robots: 439639.375000
+   Median: 146546.453125
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	237.8
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2565.084229
+   Robot 1 travel :3838.225098
+   Robot 2 travel :1214.281738
+   Robot 1 travel the most:3838.225098
+   Robot 2 travel the lest:1214.281738
+   Total distance travel of all robots: 447256.968750
+   Median: 149085.656250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.1
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2593.987061
+   Robot 1 travel :3881.841309
+   Robot 2 travel :1214.281738
+   Robot 1 travel the most:3881.841309
+   Robot 2 travel the lest:1214.281738
+   Total distance travel of all robots: 454947.093750
+   Median: 151649.031250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.1
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2593.987061
+   Robot 1 travel :3881.841309
+   Robot 2 travel :1214.281738
+   Robot 1 travel the most:3881.841309
+   Robot 2 travel the lest:1214.281738
+   Total distance travel of all robots: 462637.218750
+   Median: 154212.406250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.2
+Real Time Elapsed	1699007515.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2622.824707
+   Robot 1 travel :3925.457520
+   Robot 2 travel :1227.925293
+   Robot 1 travel the most:3925.457520
+   Robot 2 travel the lest:1227.925293
+   Total distance travel of all robots: 470413.437500
+   Median: 156804.484375
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.2
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2651.652100
+   Robot 1 travel :3969.073730
+   Robot 2 travel :1241.568848
+   Robot 1 travel the most:3969.073730
+   Robot 2 travel the lest:1241.568848
+   Total distance travel of all robots: 478275.718750
+   Median: 159425.234375
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.3
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2680.473877
+   Robot 1 travel :4012.689941
+   Robot 2 travel :1255.212402
+   Robot 1 travel the most:4012.689941
+   Robot 2 travel the lest:1255.212402
+   Total distance travel of all robots: 486224.093750
+   Median: 162074.703125
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.3
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2680.473877
+   Robot 1 travel :4012.689941
+   Robot 2 travel :1255.212402
+   Robot 1 travel the most:4012.689941
+   Robot 2 travel the lest:1255.212402
+   Total distance travel of all robots: 494172.468750
+   Median: 164724.156250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.3
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2680.473877
+   Robot 1 travel :4012.689941
+   Robot 2 travel :1255.212402
+   Robot 1 travel the most:4012.689941
+   Robot 2 travel the lest:1255.212402
+   Total distance travel of all robots: 502120.843750
+   Median: 167373.609375
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.4
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2709.292236
+   Robot 1 travel :4056.306152
+   Robot 2 travel :1268.855957
+   Robot 1 travel the most:4056.306152
+   Robot 2 travel the lest:1268.855957
+   Total distance travel of all robots: 510155.281250
+   Median: 170051.765625
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.7
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2738.105225
+   Robot 1 travel :4099.922363
+   Robot 2 travel :1282.499512
+   Robot 1 travel the most:4099.922363
+   Robot 2 travel the lest:1282.499512
+   Total distance travel of all robots: 518275.812500
+   Median: 172758.609375
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	238.7
+Real Time Elapsed	1699007516.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :2738.105225
+   Robot 1 travel :4099.922363
+   Robot 2 travel :1282.499512
+   Robot 1 travel the most:4099.922363
+   Robot 2 travel the lest:1282.499512
+   Total distance travel of all robots: 526396.312500
+   Median: 175465.437500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	239.0
+Real Time Elapsed	1699007517.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13846.375000
+   Robot 1 travel :20644.050781
+   Robot 2 travel :7025.836426
+   Robot 1 travel the most:20644.050781
+   Robot 2 travel the lest:7025.836426
+   Total distance travel of all robots: 567912.562500
+   Median: 189304.187500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.7
+Real Time Elapsed	1699007617.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13846.375000
+   Robot 1 travel :20644.050781
+   Robot 2 travel :7025.836426
+   Robot 1 travel the most:20644.050781
+   Robot 2 travel the lest:7025.836426
+   Total distance travel of all robots: 609428.812500
+   Median: 203142.937500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.8
+Real Time Elapsed	1699007617.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13879.380859
+   Robot 1 travel :20690.021484
+   Robot 2 travel :7044.670410
+   Robot 1 travel the most:20690.021484
+   Robot 2 travel the lest:7044.670410
+   Total distance travel of all robots: 651042.875000
+   Median: 217014.296875
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.8
+Real Time Elapsed	1699007617.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13912.400391
+   Robot 1 travel :20736.001953
+   Robot 2 travel :7063.516602
+   Robot 1 travel the most:20736.001953
+   Robot 2 travel the lest:7063.516602
+   Total distance travel of all robots: 692754.750000
+   Median: 230918.250000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.8
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13945.432617
+   Robot 1 travel :20736.001953
+   Robot 2 travel :7082.373535
+   Robot 1 travel the most:20736.001953
+   Robot 2 travel the lest:7082.373535
+   Total distance travel of all robots: 734518.562500
+   Median: 244839.515625
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.9
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13945.432617
+   Robot 1 travel :20781.992188
+   Robot 2 travel :7082.373535
+   Robot 1 travel the most:20781.992188
+   Robot 2 travel the lest:7082.373535
+   Total distance travel of all robots: 776328.375000
+   Median: 258776.125000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.9
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13978.478516
+   Robot 1 travel :20827.990234
+   Robot 2 travel :7101.237793
+   Robot 1 travel the most:20827.990234
+   Robot 2 travel the lest:7101.237793
+   Total distance travel of all robots: 818236.125000
+   Median: 272745.375000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	290.9
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13978.478516
+   Robot 1 travel :20827.990234
+   Robot 2 travel :7101.237793
+   Robot 1 travel the most:20827.990234
+   Robot 2 travel the lest:7101.237793
+   Total distance travel of all robots: 860143.875000
+   Median: 286714.625000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.3
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13978.478516
+   Robot 1 travel :20827.990234
+   Robot 2 travel :7101.237793
+   Robot 1 travel the most:20827.990234
+   Robot 2 travel the lest:7101.237793
+   Total distance travel of all robots: 902051.625000
+   Median: 300683.875000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.3
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :13978.478516
+   Robot 1 travel :20827.990234
+   Robot 2 travel :7101.237793
+   Robot 1 travel the most:20827.990234
+   Robot 2 travel the lest:7101.237793
+   Total distance travel of all robots: 943959.375000
+   Median: 314653.125000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.3
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14011.615234
+   Robot 1 travel :20874.046875
+   Robot 2 travel :7120.171387
+   Robot 1 travel the most:20874.046875
+   Robot 2 travel the lest:7120.171387
+   Total distance travel of all robots: 985965.250000
+   Median: 328655.093750
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.3
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14044.762695
+   Robot 1 travel :20920.111328
+   Robot 2 travel :7139.113770
+   Robot 1 travel the most:20920.111328
+   Robot 2 travel the lest:7139.113770
+   Total distance travel of all robots: 1028069.250000
+   Median: 342689.750000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.4
+Real Time Elapsed	1699007618.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14077.926758
+   Robot 1 travel :20966.185547
+   Robot 2 travel :7158.068848
+   Robot 1 travel the most:20966.185547
+   Robot 2 travel the lest:7158.068848
+   Total distance travel of all robots: 1070271.500000
+   Median: 356757.156250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.4
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14111.101562
+   Robot 1 travel :21012.267578
+   Robot 2 travel :7177.029785
+   Robot 1 travel the most:21012.267578
+   Robot 2 travel the lest:7177.029785
+   Total distance travel of all robots: 1112571.875000
+   Median: 370857.281250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.4
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14111.101562
+   Robot 1 travel :21012.267578
+   Robot 2 travel :7177.029785
+   Robot 1 travel the most:21012.267578
+   Robot 2 travel the lest:7177.029785
+   Total distance travel of all robots: 1154872.250000
+   Median: 384957.406250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.5
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14111.101562
+   Robot 1 travel :21012.267578
+   Robot 2 travel :7177.029785
+   Robot 1 travel the most:21012.267578
+   Robot 2 travel the lest:7177.029785
+   Total distance travel of all robots: 1197172.625000
+   Median: 399057.531250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.8
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14144.291992
+   Robot 1 travel :21058.359375
+   Robot 2 travel :7196.000000
+   Robot 1 travel the most:21058.359375
+   Robot 2 travel the lest:7196.000000
+   Total distance travel of all robots: 1239571.250000
+   Median: 413190.406250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.8
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14144.291992
+   Robot 1 travel :21058.359375
+   Robot 2 travel :7196.000000
+   Robot 1 travel the most:21058.359375
+   Robot 2 travel the lest:7196.000000
+   Total distance travel of all robots: 1281969.875000
+   Median: 427323.281250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.9
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14177.576172
+   Robot 1 travel :21104.515625
+   Robot 2 travel :7215.033691
+   Robot 1 travel the most:21104.515625
+   Robot 2 travel the lest:7215.033691
+   Total distance travel of all robots: 1324467.000000
+   Median: 441489.000000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.9
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14210.871094
+   Robot 1 travel :21150.679688
+   Robot 2 travel :7234.075684
+   Robot 1 travel the most:21150.679688
+   Robot 2 travel the lest:7234.075684
+   Total distance travel of all robots: 1367062.625000
+   Median: 455687.531250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	291.9
+Real Time Elapsed	1699007619.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14244.182617
+   Robot 1 travel :21196.855469
+   Robot 2 travel :7253.128906
+   Robot 1 travel the most:21196.855469
+   Robot 2 travel the lest:7253.128906
+   Total distance travel of all robots: 1409756.750000
+   Median: 469918.906250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.0
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14244.182617
+   Robot 1 travel :21196.855469
+   Robot 2 travel :7253.128906
+   Robot 1 travel the most:21196.855469
+   Robot 2 travel the lest:7253.128906
+   Total distance travel of all robots: 1452450.875000
+   Median: 484150.281250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.0
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14244.182617
+   Robot 1 travel :21196.855469
+   Robot 2 travel :7253.128906
+   Robot 1 travel the most:21196.855469
+   Robot 2 travel the lest:7253.128906
+   Total distance travel of all robots: 1495145.000000
+   Median: 498381.656250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.0
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14277.513672
+   Robot 1 travel :21243.044922
+   Robot 2 travel :7272.195801
+   Robot 1 travel the most:21243.044922
+   Robot 2 travel the lest:7272.195801
+   Total distance travel of all robots: 1537937.750000
+   Median: 512645.906250
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.3
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14277.513672
+   Robot 1 travel :21243.044922
+   Robot 2 travel :7272.195801
+   Robot 1 travel the most:21243.044922
+   Robot 2 travel the lest:7272.195801
+   Total distance travel of all robots: 1580730.500000
+   Median: 526910.187500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.3
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14277.513672
+   Robot 1 travel :21243.044922
+   Robot 2 travel :7272.195801
+   Robot 1 travel the most:21243.044922
+   Robot 2 travel the lest:7272.195801
+   Total distance travel of all robots: 1623523.250000
+   Median: 541174.437500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.4
+Real Time Elapsed	1699007620.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14310.936523
+   Robot 1 travel :21289.302734
+   Robot 2 travel :7291.337891
+   Robot 1 travel the most:21289.302734
+   Robot 2 travel the lest:7291.337891
+   Total distance travel of all robots: 1666414.750000
+   Median: 555471.562500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.4
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14344.375000
+   Robot 1 travel :21335.572266
+   Robot 2 travel :7310.493652
+   Robot 1 travel the most:21335.572266
+   Robot 2 travel the lest:7310.493652
+   Total distance travel of all robots: 1709405.250000
+   Median: 569801.750000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.5
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14377.831055
+   Robot 1 travel :21381.855469
+   Robot 2 travel :7329.662109
+   Robot 1 travel the most:21381.855469
+   Robot 2 travel the lest:7329.662109
+   Total distance travel of all robots: 1752494.625000
+   Median: 584164.875000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.5
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14377.831055
+   Robot 1 travel :21381.855469
+   Robot 2 travel :7329.662109
+   Robot 1 travel the most:21381.855469
+   Robot 2 travel the lest:7329.662109
+   Total distance travel of all robots: 1795584.000000
+   Median: 598528.000000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.6
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14411.292969
+   Robot 1 travel :21428.144531
+   Robot 2 travel :7348.834961
+   Robot 1 travel the most:21428.144531
+   Robot 2 travel the lest:7348.834961
+   Total distance travel of all robots: 1838772.250000
+   Median: 612924.062500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.9
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14411.292969
+   Robot 1 travel :21428.144531
+   Robot 2 travel :7348.834961
+   Robot 1 travel the most:21428.144531
+   Robot 2 travel the lest:7348.834961
+   Total distance travel of all robots: 1881960.500000
+   Median: 627320.187500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.9
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14411.292969
+   Robot 1 travel :21428.144531
+   Robot 2 travel :7348.834961
+   Robot 1 travel the most:21428.144531
+   Robot 2 travel the lest:7348.834961
+   Total distance travel of all robots: 1925148.750000
+   Median: 641716.250000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	292.9
+Real Time Elapsed	1699007621.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14444.819336
+   Robot 1 travel :21474.492188
+   Robot 2 travel :7368.054688
+   Robot 1 travel the most:21474.492188
+   Robot 2 travel the lest:7368.054688
+   Total distance travel of all robots: 1968436.125000
+   Median: 656145.375000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.0
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14511.906250
+   Robot 1 travel :21520.849609
+   Robot 2 travel :7406.518066
+   Robot 1 travel the most:21520.849609
+   Robot 2 travel the lest:7406.518066
+   Total distance travel of all robots: 2011875.375000
+   Median: 670625.125000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.0
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14511.906250
+   Robot 1 travel :21567.214844
+   Robot 2 travel :7406.518066
+   Robot 1 travel the most:21567.214844
+   Robot 2 travel the lest:7406.518066
+   Total distance travel of all robots: 2055361.000000
+   Median: 685120.312500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.1
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14511.906250
+   Robot 1 travel :21567.214844
+   Robot 2 travel :7406.518066
+   Robot 1 travel the most:21567.214844
+   Robot 2 travel the lest:7406.518066
+   Total distance travel of all robots: 2098846.750000
+   Median: 699615.562500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.1
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14545.466797
+   Robot 1 travel :21613.589844
+   Robot 2 travel :7425.763672
+   Robot 1 travel the most:21613.589844
+   Robot 2 travel the lest:7425.763672
+   Total distance travel of all robots: 2142431.500000
+   Median: 714143.812500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.4
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14545.466797
+   Robot 1 travel :21613.589844
+   Robot 2 travel :7425.763672
+   Robot 1 travel the most:21613.589844
+   Robot 2 travel the lest:7425.763672
+   Total distance travel of all robots: 2186016.250000
+   Median: 728672.062500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.4
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14545.466797
+   Robot 1 travel :21613.589844
+   Robot 2 travel :7425.763672
+   Robot 1 travel the most:21613.589844
+   Robot 2 travel the lest:7425.763672
+   Total distance travel of all robots: 2229601.000000
+   Median: 743200.312500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.5
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14612.788086
+   Robot 1 travel :21706.478516
+   Robot 2 travel :7464.419434
+   Robot 1 travel the most:21706.478516
+   Robot 2 travel the lest:7464.419434
+   Total distance travel of all robots: 2273384.750000
+   Median: 757794.937500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.5
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14612.788086
+   Robot 1 travel :21706.478516
+   Robot 2 travel :7464.419434
+   Robot 1 travel the most:21706.478516
+   Robot 2 travel the lest:7464.419434
+   Total distance travel of all robots: 2317168.500000
+   Median: 772389.500000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.5
+Real Time Elapsed	1699007622.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14646.467773
+   Robot 1 travel :21752.933594
+   Robot 2 travel :7483.761719
+   Robot 1 travel the most:21752.933594
+   Robot 2 travel the lest:7483.761719
+   Total distance travel of all robots: 2361051.750000
+   Median: 787017.250000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.6
+Real Time Elapsed	1699007623.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14646.467773
+   Robot 1 travel :21752.933594
+   Robot 2 travel :7483.761719
+   Robot 1 travel the most:21752.933594
+   Robot 2 travel the lest:7483.761719
+   Total distance travel of all robots: 2404935.000000
+   Median: 801645.000000
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.6
+Real Time Elapsed	1699007623.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14680.158203
+   Robot 1 travel :21799.394531
+   Robot 2 travel :7503.111328
+   Robot 1 travel the most:21799.394531
+   Robot 2 travel the lest:7503.111328
+   Total distance travel of all robots: 2448917.750000
+   Median: 816305.937500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	293.6
+Real Time Elapsed	1699007623.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Complete Patrol Cycles:	0
+
+Vertex	Avg Idl	StdDev Idl	#Visits
+0	0.0	0.0	0
+1	0.0	0.0	0
+2	0.0	0.0	0
+3	0.0	0.0	0
+4	0.0	0.0	0
+5	0.0	0.0	0
+6	0.0	0.0	0
+7	0.0	0.0	0
+8	0.0	0.0	0
+9	0.0	0.0	0
+10	0.0	0.0	0
+11	0.0	0.0	0
+12	0.0	0.0	0
+13	0.0	0.0	0
+14	0.0	0.0	0
+15	0.0	0.0	0
+16	0.0	0.0	0
+17	0.0	0.0	0
+18	0.0	0.0	0
+19	0.0	0.0	0
+
+Node idleness
+   worst_avg_idleness (graph) = 0.0
+   avg_idleness (graph) = 0.0
+   median_idleness (graph) = 0.0
+   stddev_idleness (graph) = 0.0
+
+Global idleness
+   min = 0.0
+   avg = -nan
+   stddev = -nan
+   max = 0.0
+
+Cost info
+   Robot 0 travel :14680.158203
+   Robot 1 travel :21799.394531
+   Robot 2 travel :7503.111328
+   Robot 1 travel the most:21799.394531
+   Robot 2 travel the lest:7503.111328
+   Total distance travel of all robots: 2492900.500000
+   Median: 830966.812500
+
+Interferences	0
+Interference rate	0.00
+Visits	0
+Avg visits per node	0.0
+Time Elapsed	294.0
+Real Time Elapsed	1699007623.0
+Comm delay: 0.00
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+

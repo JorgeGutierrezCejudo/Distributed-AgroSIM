@@ -1,0 +1,102 @@
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraphInfo(vertex*, uint, const char*)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:187:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  187 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph1Info(vertex*, charge*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:260:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  260 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph2Info(vertex*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:318:35:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  318 |                 r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[0].dir[0][m[K);
+      |                                  [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                   [01;35m[K|[m[K   [32m[K|[m[K
+      |                                   [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                                   [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:351:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  351 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/SSIPatrolAgent.cpp:[m[K In member function ‘[01m[Kvirtual int SSIPatrolAgent::compute_next_vertex()[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/SSIPatrolAgent.cpp:450:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  450 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraphInfo(vertex*, uint, const char*)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:187:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  187 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph1Info(vertex*, charge*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:260:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  260 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph2Info(vertex*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:318:35:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  318 |                 r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[0].dir[0][m[K);
+      |                                  [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                   [01;35m[K|[m[K   [32m[K|[m[K
+      |                                   [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                                   [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/getgraph.cpp:351:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  351 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:39[m[K:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:[m[K In member function ‘[01m[Kvirtual void GBS_Agent::init(int, char**)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:79:12:[m[K [01;35m[Kwarning: [m[Kconversion lacks type at end of format [[01;35m[K-Wformat=[m[K]
+   79 |   ROS_INFO([01;35m[K"Numbero of robot %D"[m[K,NUMBER_OF_ROBOTS);
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:79:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   79 |   [01;36m[KROS_INFO[m[K("Numbero of robot %D",NUMBER_OF_ROBOTS);
+      |   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:79:31:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   79 |   ROS_INFO("Numbero of robot %[01;36m[KD[m[K",NUMBER_OF_ROBOTS);
+      |                               [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:39[m[K:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:79:12:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+   79 |   ROS_INFO([01;35m[K"Numbero of robot %D"[m[K,NUMBER_OF_ROBOTS);
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GBS_Agent.cpp:79:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   79 |   [01;36m[KROS_INFO[m[K("Numbero of robot %D",NUMBER_OF_ROBOTS);
+      |   [01;36m[K^~~~~~~~[m[K
