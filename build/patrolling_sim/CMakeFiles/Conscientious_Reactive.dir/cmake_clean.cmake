@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Reactive"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Reactive.pdb"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Reactive"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Reactive.pdb"
   "CMakeFiles/Conscientious_Reactive.dir/src/Conscientious_Reactive_Agent.cpp.o"
 )
 

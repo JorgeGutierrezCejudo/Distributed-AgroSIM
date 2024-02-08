@@ -1,4 +1,4 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/cpr_accessories_gazebo
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_accessories_gazebo
 
 Name: cpr_accessories_gazebo
 Description: Description of cpr_accessories_gazebo

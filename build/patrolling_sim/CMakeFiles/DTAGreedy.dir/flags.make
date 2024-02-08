@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"patrolling_sim\"
 
-CXX_INCLUDES = -I/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/include -I/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/include -I/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

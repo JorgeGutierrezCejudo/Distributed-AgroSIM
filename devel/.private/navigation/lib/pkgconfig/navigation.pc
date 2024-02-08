@@ -1,4 +1,4 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/navigation
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/navigation
 
 Name: navigation
 Description: Description of navigation

@@ -67,14 +67,14 @@ set(gazebo_race_modules_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(gazebo_race_modules_SOURCE_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/cpr_gazebo/cpr_race_modules)
-  set(gazebo_race_modules_DEVEL_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/gazebo_race_modules)
+  set(gazebo_race_modules_SOURCE_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/cpr_gazebo/cpr_race_modules)
+  set(gazebo_race_modules_DEVEL_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/gazebo_race_modules)
   set(gazebo_race_modules_INSTALL_PREFIX "")
   set(gazebo_race_modules_PREFIX ${gazebo_race_modules_DEVEL_PREFIX})
 else()
   set(gazebo_race_modules_SOURCE_PREFIX "")
   set(gazebo_race_modules_DEVEL_PREFIX "")
-  set(gazebo_race_modules_INSTALL_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install)
+  set(gazebo_race_modules_INSTALL_PREFIX /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install)
   set(gazebo_race_modules_PREFIX ${gazebo_race_modules_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install/lib;/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib;/home/jorgeurjc/WorkSpace/ROS1/AgroSim/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install/lib;/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

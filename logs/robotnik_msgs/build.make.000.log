@@ -1,0 +1,773 @@
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_InverterStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_OdomManualCalibrationStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetInt16[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Record[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Cartesian_Euler_pose[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_ptz[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ptz[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_BatteryStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorsStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_InverterStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetInt16
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Cartesian_Euler_pose
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_OdomManualCalibrationStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Record
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_BatteryStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ptz
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_get_digital_input[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorHeadingOffset[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_ptz
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_named_inputs_outputs[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorPID[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_BoolArray[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Data[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_PantiltStatusStamped[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ElevatorStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorsStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_inputs_outputs[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorFeedback[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_get_digital_input
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorPID
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_named_inputs_outputs
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorHeadingOffset
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Data
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetEncoderTurns[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_BoolArray
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ArmStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_home[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_encoders[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_State[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_PantiltStatusStamped
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_PantiltStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ElevatorStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_QueryAlarm[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorFeedback
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_PresenceSensorArray[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Alarms[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_inputs_outputs
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetEncoderTurns
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_home
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_encoders
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_State
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_OdomCalibrationStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ArmStatus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_PantiltStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_alarmmonitor[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetString[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Interfaces[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Axis[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_QueryAlarm
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Alarms
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_AlarmSensor[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SafetyModuleStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SubState[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_OdomCalibrationStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_StringStamped[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_PresenceSensorArray
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetString
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Interfaces
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Axis
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_BatteryDockingStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ReturnMessage[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_alarmmonitor
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_AlarmSensor
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Pose2DArray[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_PresenceSensor[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_BatteryDockingStatusStamped[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_float_value[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_WatchdogStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SafetyModuleStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorReferenceValue[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SubState
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_RecordStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionGoal[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetTransform[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_PresenceSensor
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_StringStamped
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ReturnMessage
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_BatteryDockingStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_BatteryDockingStatusStamped
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_float_value
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_WatchdogStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_enable_disable[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Pose2DArray
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_OdomManualCalibrationStatusStamped[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_LaserMode[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionFeedback[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_GetPTZ[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorGoal[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorResult[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorReferenceValue
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_analog_output[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_get_mode[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetTransform
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_RecordStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionGoal
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_digital_output[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_odometry[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Pose2DStamped[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_LaserMode
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_GetPTZ
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorGoal
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionFeedback
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_enable_disable
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_axis_record[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_analog_output
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetMotorStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorResult
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_WatchdogStatusArray[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_get_alarms[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevator[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_modbus_register_bit[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_OdomManualCalibrationStatusStamped
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_digital_output
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionResult[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_odometry
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_modbus_register[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_get_modbus_register[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Pose2DStamped
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_named_digital_output[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_get_alarms
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_get_mode
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevator
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_WatchdogStatusArray
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_modbus_register_bit
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_axis_record
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetElevatorAction[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_GetBool[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_modbus_register
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetMotorStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetLaserMode[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_QueryAlarms[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_BatteryStatusStamped[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_CartesianEuler_pose[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorActionResult
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ResetFromSubState[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetNamedDigitalOutput[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_InsertTask[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_OdomCalibrationStatusStamped[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_get_modbus_register
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_named_digital_output
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorReferenceValueArray[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_GetBool
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ResetFromSubState
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetElevatorAction
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetMotorPID[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetMotorMode[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_CartesianEuler_pose
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_InsertTask
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_OdomCalibrationStatusStamped
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_GetPOI[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_QueryAlarms
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetByte[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetCurrent[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_LoggerQuery[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_BatteryStatusStamped
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Logger[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetLaserMode
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_LaserStatus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorCurrent[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorReferenceValueArray
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Registers[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetMotorMode
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetNamedDigitalOutput
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_LoggerQuery
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_StringArray[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_Register[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_GetPOI
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorCurrent
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Logger
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetMotorPID
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_mode[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_alarmsmonitor[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetCurrent
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_set_height[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetByte
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_SetBuzzer[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ack_alarm[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_LaserStatus
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_ElevatorAction[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_GetMotorsHeadingOffset[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_RobotnikMotorsStatus[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Registers
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_named_input_output[0m
+[35m[1mScanning dependencies of target _robotnik_msgs_generate_messages_check_deps_MotorsStatusDifferential[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_StringArray
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_mode
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_SetBuzzer
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_set_height
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ack_alarm
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_RobotnikMotorsStatus
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_Register
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_alarmsmonitor
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_ElevatorAction
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_GetMotorsHeadingOffset
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_named_input_output
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target _robotnik_msgs_generate_messages_check_deps_MotorsStatusDifferential
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_py[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/Data.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/inputs_outputs.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/ptz.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/encoders.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorStatus.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/Axis.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/Alarms.msg[0m
+[  0%] [34m[1mGenerating EusLisp code from robotnik_msgs/AlarmSensor.msg[0m
+[  1%] [34m[1mGenerating EusLisp code from robotnik_msgs/Interfaces.msg[0m
+[  1%] [34m[1mGenerating Python from MSG robotnik_msgs/encoders[0m
+[  2%] [34m[1mGenerating Lisp code from robotnik_msgs/encoders.msg[0m
+[  2%] [34m[1mGenerating Javascript code from robotnik_msgs/encoders.msg[0m
+[  2%] [34m[1mGenerating C++ code from robotnik_msgs/encoders.msg[0m
+[  2%] [34m[1mGenerating Lisp code from robotnik_msgs/inputs_outputs.msg[0m
+[  2%] [34m[1mGenerating C++ code from robotnik_msgs/inputs_outputs.msg[0m
+[  2%] [34m[1mGenerating Lisp code from robotnik_msgs/ptz.msg[0m
+[  2%] [34m[1mGenerating Python from MSG robotnik_msgs/inputs_outputs[0m
+[  3%] [34m[1mGenerating EusLisp code from robotnik_msgs/State.msg[0m
+[  3%] [34m[1mGenerating Python from MSG robotnik_msgs/ptz[0m
+[  3%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorsStatus.msg[0m
+[  4%] [34m[1mGenerating C++ code from robotnik_msgs/ptz.msg[0m
+[  4%] [34m[1mGenerating EusLisp code from robotnik_msgs/ArmStatus.msg[0m
+[  4%] [34m[1mGenerating Javascript code from robotnik_msgs/inputs_outputs.msg[0m
+[  4%] [34m[1mGenerating Lisp code from robotnik_msgs/Data.msg[0m
+[  4%] [34m[1mGenerating Python from MSG robotnik_msgs/Data[0m
+[  5%] [34m[1mGenerating Javascript code from robotnik_msgs/ptz.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from robotnik_msgs/BatteryStatusStamped.msg[0m
+[  5%] [34m[1mGenerating C++ code from robotnik_msgs/Data.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from robotnik_msgs/BatteryStatus.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from robotnik_msgs/OdomCalibrationStatus.msg[0m
+[  5%] [34m[1mGenerating Javascript code from robotnik_msgs/Data.msg[0m
+[  5%] [34m[1mGenerating Lisp code from robotnik_msgs/Interfaces.msg[0m
+[  5%] [34m[1mGenerating Javascript code from robotnik_msgs/Interfaces.msg[0m
+[  5%] [34m[1mGenerating Python from MSG robotnik_msgs/Interfaces[0m
+[  6%] [34m[1mGenerating EusLisp code from robotnik_msgs/OdomCalibrationStatusStamped.msg[0m
+[  6%] [34m[1mGenerating EusLisp code from robotnik_msgs/OdomManualCalibrationStatus.msg[0m
+[  6%] [34m[1mGenerating Javascript code from robotnik_msgs/Axis.msg[0m
+[  7%] [34m[1mGenerating Python from MSG robotnik_msgs/Axis[0m
+[  7%] [34m[1mGenerating C++ code from robotnik_msgs/Interfaces.msg[0m
+[  7%] [34m[1mGenerating Javascript code from robotnik_msgs/AlarmSensor.msg[0m
+[  7%] [34m[1mGenerating C++ code from robotnik_msgs/Axis.msg[0m
+[  7%] [34m[1mGenerating Javascript code from robotnik_msgs/Alarms.msg[0m
+[  7%] [34m[1mGenerating EusLisp code from robotnik_msgs/OdomManualCalibrationStatusStamped.msg[0m
+[  7%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorHeadingOffset.msg[0m
+[  7%] [34m[1mGenerating C++ code from robotnik_msgs/AlarmSensor.msg[0m
+[  7%] [34m[1mGenerating Lisp code from robotnik_msgs/Axis.msg[0m
+[  7%] [34m[1mGenerating Python from MSG robotnik_msgs/AlarmSensor[0m
+[  8%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorStatus.msg[0m
+[  8%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorsStatusDifferential.msg[0m
+[  8%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorsStatus.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from robotnik_msgs/InverterStatus.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from robotnik_msgs/RobotnikMotorsStatus.msg[0m
+[  9%] [34m[1mGenerating Javascript code from robotnik_msgs/State.msg[0m
+[  9%] [34m[1mGenerating Python from MSG robotnik_msgs/Alarms[0m
+[ 10%] [34m[1mGenerating Lisp code from robotnik_msgs/AlarmSensor.msg[0m
+[ 10%] [34m[1mGenerating EusLisp code from robotnik_msgs/ElevatorAction.msg[0m
+[ 10%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorStatus[0m
+[ 11%] [34m[1mGenerating C++ code from robotnik_msgs/Alarms.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from robotnik_msgs/ArmStatus.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from robotnik_msgs/Alarms.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorsStatus[0m
+[ 11%] [34m[1mGenerating EusLisp code from robotnik_msgs/ElevatorStatus.msg[0m
+[ 12%] [34m[1mGenerating Python from MSG robotnik_msgs/State[0m
+[ 12%] [34m[1mGenerating C++ code from robotnik_msgs/MotorStatus.msg[0m
+[ 12%] [34m[1mGenerating EusLisp code from robotnik_msgs/PantiltStatus.msg[0m
+[ 12%] [34m[1mGenerating EusLisp code from robotnik_msgs/PantiltStatusStamped.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from robotnik_msgs/Cartesian_Euler_pose.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG robotnik_msgs/ArmStatus[0m
+[ 13%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorStatus.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from robotnik_msgs/BatteryStatus.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorsStatus.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG robotnik_msgs/BatteryStatus[0m
+[ 13%] [34m[1mGenerating EusLisp code from robotnik_msgs/alarmmonitor.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from robotnik_msgs/alarmsmonitor.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from robotnik_msgs/OdomCalibrationStatus.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from robotnik_msgs/BatteryStatusStamped.msg[0m
+[ 14%] [34m[1mGenerating EusLisp code from robotnik_msgs/named_inputs_outputs.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from robotnik_msgs/OdomCalibrationStatusStamped.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG robotnik_msgs/BatteryStatusStamped[0m
+[ 14%] [34m[1mGenerating EusLisp code from robotnik_msgs/named_input_output.msg[0m
+[ 15%] [34m[1mGenerating EusLisp code from robotnik_msgs/Register.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG robotnik_msgs/OdomCalibrationStatus[0m
+[ 15%] [34m[1mGenerating EusLisp code from robotnik_msgs/Registers.msg[0m
+[ 15%] [34m[1mGenerating Lisp code from robotnik_msgs/State.msg[0m
+[ 15%] [34m[1mGenerating C++ code from robotnik_msgs/MotorsStatus.msg[0m
+[ 16%] [34m[1mGenerating Lisp code from robotnik_msgs/ArmStatus.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from robotnik_msgs/OdomManualCalibrationStatus.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG robotnik_msgs/OdomCalibrationStatusStamped[0m
+[ 17%] [34m[1mGenerating C++ code from robotnik_msgs/State.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from robotnik_msgs/BatteryStatus.msg[0m
+[ 17%] [34m[1mGenerating EusLisp code from robotnik_msgs/StringArray.msg[0m
+[ 17%] [34m[1mGenerating C++ code from robotnik_msgs/ArmStatus.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from robotnik_msgs/OdomManualCalibrationStatusStamped.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from robotnik_msgs/BatteryStatusStamped.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG robotnik_msgs/OdomManualCalibrationStatus[0m
+[ 17%] [34m[1mGenerating EusLisp code from robotnik_msgs/LaserMode.msg[0m
+[ 17%] [34m[1mGenerating EusLisp code from robotnik_msgs/LaserStatus.msg[0m
+[ 17%] [34m[1mGenerating C++ code from robotnik_msgs/BatteryStatus.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG robotnik_msgs/OdomManualCalibrationStatusStamped[0m
+[ 17%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorHeadingOffset[0m
+[ 17%] [34m[1mGenerating Lisp code from robotnik_msgs/OdomCalibrationStatus.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorHeadingOffset.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from robotnik_msgs/Logger.msg[0m
+[ 19%] [34m[1mGenerating Lisp code from robotnik_msgs/OdomCalibrationStatusStamped.msg[0m
+[ 19%] [34m[1mGenerating Python from MSG robotnik_msgs/InverterStatus[0m
+[ 19%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorsStatusDifferential[0m
+[ 19%] [34m[1mGenerating EusLisp code from robotnik_msgs/SafetyModuleStatus.msg[0m
+[ 20%] [34m[1mGenerating Lisp code from robotnik_msgs/OdomManualCalibrationStatus.msg[0m
+[ 20%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorsStatusDifferential.msg[0m
+[ 21%] [34m[1mGenerating C++ code from robotnik_msgs/BatteryStatusStamped.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from robotnik_msgs/StringStamped.msg[0m
+[ 22%] [34m[1mGenerating Python from MSG robotnik_msgs/RobotnikMotorsStatus[0m
+[ 22%] [34m[1mGenerating C++ code from robotnik_msgs/OdomCalibrationStatusStamped.msg[0m
+[ 22%] [34m[1mGenerating C++ code from robotnik_msgs/OdomCalibrationStatus.msg[0m
+[ 22%] [34m[1mGenerating Lisp code from robotnik_msgs/OdomManualCalibrationStatusStamped.msg[0m
+[ 22%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorHeadingOffset.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from robotnik_msgs/InverterStatus.msg[0m
+[ 22%] [34m[1mGenerating Python from MSG robotnik_msgs/ElevatorAction[0m
+[ 22%] [34m[1mGenerating EusLisp code from robotnik_msgs/SubState.msg[0m
+[ 22%] [34m[1mGenerating C++ code from robotnik_msgs/OdomManualCalibrationStatus.msg[0m
+[ 22%] [34m[1mGenerating EusLisp code from robotnik_msgs/QueryAlarm.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from robotnik_msgs/BatteryDockingStatus.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from robotnik_msgs/RobotnikMotorsStatus.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorsStatusDifferential.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from robotnik_msgs/BatteryDockingStatusStamped.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from robotnik_msgs/InverterStatus.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from robotnik_msgs/BoolArray.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from robotnik_msgs/ElevatorAction.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG robotnik_msgs/ElevatorStatus[0m
+[ 23%] [34m[1mGenerating Javascript code from robotnik_msgs/ElevatorStatus.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG robotnik_msgs/PantiltStatus[0m
+[ 23%] [34m[1mGenerating C++ code from robotnik_msgs/OdomManualCalibrationStatusStamped.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG robotnik_msgs/PantiltStatusStamped[0m
+[ 24%] [34m[1mGenerating Lisp code from robotnik_msgs/RobotnikMotorsStatus.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from robotnik_msgs/PantiltStatus.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from robotnik_msgs/PantiltStatusStamped.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from robotnik_msgs/Cartesian_Euler_pose.msg[0m
+[ 25%] [34m[1mGenerating Lisp code from robotnik_msgs/ElevatorAction.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from robotnik_msgs/alarmmonitor.msg[0m
+[ 26%] [34m[1mGenerating Python from MSG robotnik_msgs/Cartesian_Euler_pose[0m
+[ 27%] [34m[1mGenerating C++ code from robotnik_msgs/MotorHeadingOffset.msg[0m
+[ 27%] [34m[1mGenerating Python from MSG robotnik_msgs/alarmmonitor[0m
+[ 27%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorPID.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorCurrent.msg[0m
+[ 27%] [34m[1mGenerating Python from MSG robotnik_msgs/alarmsmonitor[0m
+[ 27%] [34m[1mGenerating Javascript code from robotnik_msgs/alarmsmonitor.msg[0m
+[ 27%] [34m[1mGenerating C++ code from robotnik_msgs/MotorsStatusDifferential.msg[0m
+[ 27%] [34m[1mGenerating Lisp code from robotnik_msgs/ElevatorStatus.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from robotnik_msgs/Pose2DArray.msg[0m
+[ 27%] [34m[1mGenerating Lisp code from robotnik_msgs/PantiltStatus.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from robotnik_msgs/named_inputs_outputs.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from robotnik_msgs/PantiltStatusStamped.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from robotnik_msgs/named_input_output.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from robotnik_msgs/Cartesian_Euler_pose.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG robotnik_msgs/named_inputs_outputs[0m
+[ 29%] [34m[1mGenerating EusLisp code from robotnik_msgs/Pose2DStamped.msg[0m
+[ 29%] [34m[1mGenerating C++ code from robotnik_msgs/InverterStatus.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from robotnik_msgs/alarmmonitor.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG robotnik_msgs/Register[0m
+[ 31%] [34m[1mGenerating Python from MSG robotnik_msgs/named_input_output[0m
+[ 31%] [34m[1mGenerating Lisp code from robotnik_msgs/alarmsmonitor.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG robotnik_msgs/Registers[0m
+[ 31%] [34m[1mGenerating EusLisp code from robotnik_msgs/ReturnMessage.msg[0m
+[ 31%] [34m[1mGenerating Javascript code from robotnik_msgs/Register.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from robotnik_msgs/named_inputs_outputs.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from robotnik_msgs/named_input_output.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from robotnik_msgs/Register.msg[0m
+[ 31%] [34m[1mGenerating Javascript code from robotnik_msgs/Registers.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG robotnik_msgs/StringArray[0m
+[ 31%] [34m[1mGenerating EusLisp code from robotnik_msgs/PresenceSensor.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG robotnik_msgs/LaserMode[0m
+[ 32%] [34m[1mGenerating Lisp code from robotnik_msgs/Registers.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from robotnik_msgs/StringArray.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from robotnik_msgs/StringArray.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from robotnik_msgs/PresenceSensorArray.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from robotnik_msgs/WatchdogStatus.msg[0m
+[ 32%] [34m[1mGenerating Python from MSG robotnik_msgs/LaserStatus[0m
+[ 32%] [34m[1mGenerating Lisp code from robotnik_msgs/LaserMode.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from robotnik_msgs/LaserStatus.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from robotnik_msgs/Logger.msg[0m
+[ 33%] [34m[1mGenerating Python from MSG robotnik_msgs/Logger[0m
+[ 33%] [34m[1mGenerating Python from MSG robotnik_msgs/SafetyModuleStatus[0m
+[ 34%] [34m[1mGenerating Javascript code from robotnik_msgs/LaserMode.msg[0m
+[ 34%] [34m[1mGenerating Python from MSG robotnik_msgs/StringStamped[0m
+[ 35%] [34m[1mGenerating EusLisp code from robotnik_msgs/WatchdogStatusArray.msg[0m
+[ 35%] [34m[1mGenerating Javascript code from robotnik_msgs/LaserStatus.msg[0m
+[ 35%] [34m[1mGenerating C++ code from robotnik_msgs/RobotnikMotorsStatus.msg[0m
+[ 35%] [34m[1mGenerating Python from MSG robotnik_msgs/SubState[0m
+[ 35%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorReferenceValue.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from robotnik_msgs/SafetyModuleStatus.msg[0m
+[ 36%] [34m[1mGenerating Python from MSG robotnik_msgs/QueryAlarm[0m
+[ 36%] [34m[1mGenerating Python from MSG robotnik_msgs/BatteryDockingStatus[0m
+[ 36%] [34m[1mGenerating Lisp code from robotnik_msgs/StringStamped.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from robotnik_msgs/SubState.msg[0m
+[ 37%] [34m[1mGenerating Python from MSG robotnik_msgs/BatteryDockingStatusStamped[0m
+[ 37%] [34m[1mGenerating EusLisp code from robotnik_msgs/MotorReferenceValueArray.msg[0m
+[ 37%] [34m[1mGenerating EusLisp code from robotnik_msgs/RecordStatus.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from robotnik_msgs/SafetyModuleStatus.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from robotnik_msgs/Logger.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from robotnik_msgs/QueryAlarm.msg[0m
+[ 37%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorAction.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorActionGoal.msg[0m
+[ 38%] [34m[1mGenerating C++ code from robotnik_msgs/ElevatorAction.msg[0m
+[ 38%] [34m[1mGenerating Lisp code from robotnik_msgs/BatteryDockingStatusStamped.msg[0m
+[ 38%] [34m[1mGenerating Python from MSG robotnik_msgs/BoolArray[0m
+[ 38%] [34m[1mGenerating Lisp code from robotnik_msgs/BatteryDockingStatus.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorActionResult.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from robotnik_msgs/StringStamped.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from robotnik_msgs/BoolArray.msg[0m
+[ 39%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorPID[0m
+[ 39%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorCurrent[0m
+[ 39%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorPID.msg[0m
+[ 40%] [34m[1mGenerating C++ code from robotnik_msgs/ElevatorStatus.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG robotnik_msgs/Pose2DArray[0m
+[ 40%] [34m[1mGenerating C++ code from robotnik_msgs/PantiltStatus.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from robotnik_msgs/SubState.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorCurrent.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorActionFeedback.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from robotnik_msgs/QueryAlarm.msg[0m
+[ 42%] [34m[1mGenerating Python from MSG robotnik_msgs/Pose2DStamped[0m
+[ 42%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorResult.msg[0m
+[ 42%] [34m[1mGenerating Python from MSG robotnik_msgs/ReturnMessage[0m
+[ 42%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorGoal.msg[0m
+[ 42%] [34m[1mGenerating Python from MSG robotnik_msgs/PresenceSensor[0m
+[ 42%] [34m[1mGenerating Javascript code from robotnik_msgs/BatteryDockingStatus.msg[0m
+[ 42%] [34m[1mGenerating C++ code from robotnik_msgs/PantiltStatusStamped.msg[0m
+[ 42%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevatorFeedback.msg[0m
+[ 42%] [34m[1mGenerating Lisp code from robotnik_msgs/Pose2DArray.msg[0m
+[ 42%] [34m[1mGenerating Lisp code from robotnik_msgs/Pose2DStamped.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from robotnik_msgs/BatteryDockingStatusStamped.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from robotnik_msgs/BoolArray.msg[0m
+[ 42%] [34m[1mGenerating Python from MSG robotnik_msgs/PresenceSensorArray[0m
+[ 42%] [34m[1mGenerating Python from MSG robotnik_msgs/WatchdogStatus[0m
+[ 43%] [34m[1mGenerating Python from MSG robotnik_msgs/WatchdogStatusArray[0m
+[ 44%] [34m[1mGenerating Lisp code from robotnik_msgs/ReturnMessage.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorPID.msg[0m
+[ 45%] [34m[1mGenerating EusLisp code from robotnik_msgs/get_digital_input.srv[0m
+[ 45%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_analog_output.srv[0m
+[ 45%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorReferenceValue[0m
+[ 45%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_mode.srv[0m
+[ 45%] [34m[1mGenerating Python from MSG robotnik_msgs/MotorReferenceValueArray[0m
+[ 45%] [34m[1mGenerating C++ code from robotnik_msgs/Cartesian_Euler_pose.msg[0m
+[ 46%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorCurrent.msg[0m
+[ 46%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_ptz.srv[0m
+[ 47%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_digital_output.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from robotnik_msgs/Pose2DArray.msg[0m
+[ 47%] [34m[1mGenerating Lisp code from robotnik_msgs/PresenceSensor.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from robotnik_msgs/get_mode.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from robotnik_msgs/Pose2DStamped.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG robotnik_msgs/RecordStatus[0m
+[ 47%] [34m[1mGenerating Lisp code from robotnik_msgs/PresenceSensorArray.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorAction[0m
+[ 47%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorActionGoal[0m
+[ 48%] [34m[1mGenerating Javascript code from robotnik_msgs/PresenceSensor.msg[0m
+[ 48%] [34m[1mGenerating Javascript code from robotnik_msgs/ReturnMessage.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from robotnik_msgs/WatchdogStatus.msg[0m
+[ 48%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorActionResult[0m
+[ 48%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorGoal[0m
+[ 48%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorActionFeedback[0m
+[ 48%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_odometry.srv[0m
+[ 48%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorResult[0m
+[ 48%] [34m[1mGenerating Lisp code from robotnik_msgs/WatchdogStatusArray.msg[0m
+[ 48%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_height.srv[0m
+[ 48%] [34m[1mGenerating C++ code from robotnik_msgs/alarmmonitor.msg[0m
+[ 49%] [34m[1mGenerating Javascript code from robotnik_msgs/PresenceSensorArray.msg[0m
+[ 49%] [34m[1mGenerating EusLisp code from robotnik_msgs/enable_disable.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorReferenceValue.msg[0m
+[ 50%] [34m[1mGenerating EusLisp code from robotnik_msgs/home.srv[0m
+[ 51%] [34m[1mGenerating EusLisp code from robotnik_msgs/axis_record.srv[0m
+[ 51%] [34m[1mGenerating Javascript code from robotnik_msgs/WatchdogStatus.msg[0m
+[ 52%] [34m[1mGenerating Python code from SRV robotnik_msgs/get_digital_input[0m
+[ 52%] [34m[1mGenerating Python from MSG robotnik_msgs/SetElevatorFeedback[0m
+[ 52%] [34m[1mGenerating Javascript code from robotnik_msgs/WatchdogStatusArray.msg[0m
+[ 52%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_analog_output[0m
+[ 52%] [34m[1mGenerating Lisp code from robotnik_msgs/MotorReferenceValueArray.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetMotorStatus.srv[0m
+[ 52%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorReferenceValue.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_float_value.srv[0m
+[ 52%] [34m[1mGenerating Javascript code from robotnik_msgs/MotorReferenceValueArray.msg[0m
+[ 52%] [34m[1mGenerating C++ code from robotnik_msgs/alarmsmonitor.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetElevator.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from robotnik_msgs/RecordStatus.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from robotnik_msgs/RecordStatus.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from robotnik_msgs/get_alarms.srv[0m
+[ 52%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_mode[0m
+[ 52%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_ptz[0m
+[ 52%] [34m[1mGenerating EusLisp code from robotnik_msgs/ack_alarm.srv[0m
+[ 53%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorAction.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_modbus_register.srv[0m
+[ 54%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorActionGoal.msg[0m
+[ 54%] [34m[1mGenerating Python code from SRV robotnik_msgs/get_mode[0m
+[ 54%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorActionResult.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from robotnik_msgs/get_modbus_register.srv[0m
+[ 54%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_modbus_register_bit.srv[0m
+[ 55%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_digital_output[0m
+[ 55%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_odometry[0m
+[ 55%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorActionFeedback.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from robotnik_msgs/GetBool.srv[0m
+[ 55%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorAction.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_CartesianEuler_pose.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from robotnik_msgs/set_named_digital_output.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_height[0m
+[ 56%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorGoal.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorResult.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorActionGoal.msg[0m
+[ 58%] [34m[1mGenerating C++ code from robotnik_msgs/named_inputs_outputs.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetLaserMode.srv[0m
+[ 58%] [34m[1mGenerating C++ code from robotnik_msgs/named_input_output.msg[0m
+[ 58%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevatorFeedback.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from robotnik_msgs/ResetFromSubState.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorActionResult.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetNamedDigitalOutput.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from robotnik_msgs/QueryAlarms.srv[0m
+[ 58%] [34m[1mGenerating Javascript code from robotnik_msgs/get_digital_input.srv[0m
+[ 59%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorActionFeedback.msg[0m
+[ 59%] [34m[1mGenerating C++ code from robotnik_msgs/Register.msg[0m
+[ 59%] [34m[1mGenerating Python code from SRV robotnik_msgs/enable_disable[0m
+[ 59%] [34m[1mGenerating Python code from SRV robotnik_msgs/home[0m
+[ 59%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorGoal.msg[0m
+[ 59%] [34m[1mGenerating Javascript code from robotnik_msgs/set_analog_output.srv[0m
+[ 59%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetMotorPID.srv[0m
+[ 59%] [34m[1mGenerating C++ code from robotnik_msgs/Registers.msg[0m
+[ 59%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorResult.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from robotnik_msgs/InsertTask.srv[0m
+[ 60%] [34m[1mGenerating Python code from SRV robotnik_msgs/axis_record[0m
+[ 60%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevatorFeedback.msg[0m
+[ 60%] [34m[1mGenerating Lisp code from robotnik_msgs/get_digital_input.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_float_value[0m
+[ 61%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetMotorMode.srv[0m
+[ 61%] [34m[1mGenerating C++ code from robotnik_msgs/StringArray.msg[0m
+[ 62%] [34m[1mGenerating Lisp code from robotnik_msgs/set_analog_output.srv[0m
+[ 62%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetBuzzer.srv[0m
+[ 63%] [34m[1mGenerating C++ code from robotnik_msgs/LaserMode.msg[0m
+[ 63%] [34m[1mGenerating Javascript code from robotnik_msgs/set_mode.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetEncoderTurns.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from robotnik_msgs/set_mode.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from robotnik_msgs/GetMotorsHeadingOffset.srv[0m
+[ 64%] [34m[1mGenerating Javascript code from robotnik_msgs/set_ptz.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from robotnik_msgs/GetPOI.srv[0m
+[ 65%] [34m[1mGenerating C++ code from robotnik_msgs/LaserStatus.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetString.srv[0m
+[ 65%] [34m[1mGenerating Lisp code from robotnik_msgs/set_ptz.srv[0m
+[ 65%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetMotorStatus[0m
+[ 65%] [34m[1mGenerating C++ code from robotnik_msgs/Logger.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetInt16.srv[0m
+[ 65%] [34m[1mGenerating Lisp code from robotnik_msgs/get_mode.srv[0m
+[ 65%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetElevator[0m
+[ 65%] [34m[1mGenerating Python code from SRV robotnik_msgs/get_alarms[0m
+[ 65%] [34m[1mGenerating Lisp code from robotnik_msgs/set_digital_output.srv[0m
+[ 65%] [34m[1mGenerating C++ code from robotnik_msgs/SafetyModuleStatus.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from robotnik_msgs/GetPTZ.srv[0m
+[ 66%] [34m[1mGenerating Lisp code from robotnik_msgs/set_odometry.srv[0m
+[ 66%] [34m[1mGenerating Javascript code from robotnik_msgs/get_mode.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV robotnik_msgs/ack_alarm[0m
+[ 67%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_modbus_register[0m
+[ 67%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetByte.srv[0m
+[ 67%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_modbus_register_bit[0m
+[ 67%] [34m[1mGenerating Python code from SRV robotnik_msgs/get_modbus_register[0m
+[ 67%] [34m[1mGenerating Lisp code from robotnik_msgs/set_height.srv[0m
+[ 67%] [34m[1mGenerating Javascript code from robotnik_msgs/set_digital_output.srv[0m
+[ 67%] [34m[1mGenerating C++ code from robotnik_msgs/StringStamped.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetCurrent.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from robotnik_msgs/SetTransform.srv[0m
+[ 68%] [34m[1mGenerating Python code from SRV robotnik_msgs/GetBool[0m
+[ 68%] [34m[1mGenerating Lisp code from robotnik_msgs/enable_disable.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from robotnik_msgs/LoggerQuery.srv[0m
+[ 68%] [34m[1mGenerating Lisp code from robotnik_msgs/home.srv[0m
+[ 68%] [34m[1mGenerating Javascript code from robotnik_msgs/set_odometry.srv[0m
+[ 68%] [34m[1mGenerating Javascript code from robotnik_msgs/set_height.srv[0m
+[ 68%] [34m[1mGenerating Lisp code from robotnik_msgs/axis_record.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from robotnik_msgs/Record.srv[0m
+[ 69%] [34m[1mGenerating C++ code from robotnik_msgs/SubState.msg[0m
+[ 69%] [34m[1mGenerating C++ code from robotnik_msgs/QueryAlarm.msg[0m
+[ 69%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_CartesianEuler_pose[0m
+[ 69%] [34m[1mGenerating C++ code from robotnik_msgs/BatteryDockingStatus.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from robotnik_msgs/enable_disable.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/set_named_digital_output[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetLaserMode[0m
+[ 71%] [34m[1mGenerating C++ code from robotnik_msgs/BatteryDockingStatusStamped.msg[0m
+[ 71%] [34m[1mGenerating Lisp code from robotnik_msgs/set_float_value.srv[0m
+[ 71%] [34m[1mGenerating Javascript code from robotnik_msgs/home.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/ResetFromSubState[0m
+[ 71%] [34m[1mGenerating EusLisp manifest code for robotnik_msgs[0m
+[ 71%] [34m[1mGenerating Javascript code from robotnik_msgs/axis_record.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/QueryAlarms[0m
+[ 71%] [34m[1mGenerating C++ code from robotnik_msgs/BoolArray.msg[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetNamedDigitalOutput[0m
+[ 71%] [34m[1mGenerating Python code from SRV robotnik_msgs/InsertTask[0m
+[ 71%] [34m[1mGenerating Javascript code from robotnik_msgs/set_float_value.srv[0m
+[ 71%] [34m[1mGenerating C++ code from robotnik_msgs/MotorPID.msg[0m
+[ 71%] [34m[1mGenerating Javascript code from robotnik_msgs/SetElevator.srv[0m
+[ 72%] [34m[1mGenerating Lisp code from robotnik_msgs/SetMotorStatus.srv[0m
+[ 72%] [34m[1mGenerating Javascript code from robotnik_msgs/SetMotorStatus.srv[0m
+[ 73%] [34m[1mGenerating Javascript code from robotnik_msgs/get_alarms.srv[0m
+[ 74%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetMotorPID[0m
+[ 75%] [34m[1mGenerating C++ code from robotnik_msgs/MotorCurrent.msg[0m
+[ 75%] [34m[1mGenerating Javascript code from robotnik_msgs/set_modbus_register.srv[0m
+[ 75%] [34m[1mGenerating Javascript code from robotnik_msgs/ack_alarm.srv[0m
+[ 75%] [34m[1mGenerating C++ code from robotnik_msgs/Pose2DStamped.msg[0m
+[ 75%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetMotorMode[0m
+[ 75%] [34m[1mGenerating C++ code from robotnik_msgs/ReturnMessage.msg[0m
+[ 75%] [34m[1mGenerating C++ code from robotnik_msgs/Pose2DArray.msg[0m
+[ 75%] [34m[1mGenerating Lisp code from robotnik_msgs/SetElevator.srv[0m
+[ 75%] [34m[1mGenerating C++ code from robotnik_msgs/PresenceSensor.msg[0m
+[ 75%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetBuzzer[0m
+[ 75%] [34m[1mGenerating Javascript code from robotnik_msgs/set_modbus_register_bit.srv[0m
+[ 75%] [34m[1mGenerating Javascript code from robotnik_msgs/get_modbus_register.srv[0m
+[ 76%] [34m[1mGenerating Javascript code from robotnik_msgs/GetBool.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetEncoderTurns[0m
+[ 77%] [34m[1mGenerating C++ code from robotnik_msgs/WatchdogStatus.msg[0m
+[ 77%] [34m[1mGenerating C++ code from robotnik_msgs/PresenceSensorArray.msg[0m
+[ 77%] [34m[1mGenerating Javascript code from robotnik_msgs/set_CartesianEuler_pose.srv[0m
+[ 77%] [34m[1mGenerating Python code from SRV robotnik_msgs/GetMotorsHeadingOffset[0m
+[ 77%] [34m[1mGenerating Javascript code from robotnik_msgs/set_named_digital_output.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV robotnik_msgs/GetPOI[0m
+[ 78%] [34m[1mGenerating Javascript code from robotnik_msgs/SetLaserMode.srv[0m
+[ 78%] [34m[1mGenerating Lisp code from robotnik_msgs/get_alarms.srv[0m
+[ 78%] [34m[1mGenerating Lisp code from robotnik_msgs/ack_alarm.srv[0m
+[ 78%] [34m[1mGenerating C++ code from robotnik_msgs/WatchdogStatusArray.msg[0m
+[ 78%] [34m[1mGenerating C++ code from robotnik_msgs/MotorReferenceValue.msg[0m
+[ 78%] [34m[1mGenerating Javascript code from robotnik_msgs/ResetFromSubState.srv[0m
+[ 78%] [34m[1mGenerating C++ code from robotnik_msgs/MotorReferenceValueArray.msg[0m
+[ 79%] [34m[1mGenerating Javascript code from robotnik_msgs/QueryAlarms.srv[0m
+[ 79%] [34m[1mGenerating Javascript code from robotnik_msgs/SetNamedDigitalOutput.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetString[0m
+[ 80%] [34m[1mGenerating C++ code from robotnik_msgs/RecordStatus.msg[0m
+[ 80%] [34m[1mGenerating Lisp code from robotnik_msgs/set_modbus_register.srv[0m
+[ 80%] [34m[1mGenerating Javascript code from robotnik_msgs/SetMotorPID.srv[0m
+[ 80%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorAction.msg[0m
+[ 80%] [34m[1mGenerating Javascript code from robotnik_msgs/InsertTask.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetInt16[0m
+[ 81%] [34m[1mGenerating Python code from SRV robotnik_msgs/GetPTZ[0m
+[ 81%] [34m[1mGenerating Lisp code from robotnik_msgs/set_modbus_register_bit.srv[0m
+[ 81%] [34m[1mGenerating Javascript code from robotnik_msgs/SetMotorMode.srv[0m
+[ 81%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorActionGoal.msg[0m
+[ 81%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetByte[0m
+[ 81%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorActionResult.msg[0m
+[ 82%] [34m[1mGenerating Javascript code from robotnik_msgs/SetEncoderTurns.srv[0m
+[ 82%] [34m[1mGenerating Javascript code from robotnik_msgs/SetBuzzer.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetTransform[0m
+[ 83%] [34m[1mGenerating Python code from SRV robotnik_msgs/SetCurrent[0m
+[ 83%] [34m[1mGenerating Lisp code from robotnik_msgs/get_modbus_register.srv[0m
+[ 83%] [34m[1mGenerating Javascript code from robotnik_msgs/GetMotorsHeadingOffset.srv[0m
+[ 83%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorActionFeedback.msg[0m
+[ 83%] [34m[1mGenerating Javascript code from robotnik_msgs/GetPOI.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV robotnik_msgs/Record[0m
+[ 83%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorGoal.msg[0m
+[ 83%] [34m[1mGenerating Javascript code from robotnik_msgs/SetString.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV robotnik_msgs/LoggerQuery[0m
+[ 83%] [34m[1mGenerating Javascript code from robotnik_msgs/SetInt16.srv[0m
+[ 83%] [34m[1mGenerating Lisp code from robotnik_msgs/GetBool.srv[0m
+[ 84%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorResult.msg[0m
+[ 84%] Built target robotnik_msgs_generate_messages_eus
+[ 85%] [34m[1mGenerating Javascript code from robotnik_msgs/GetPTZ.srv[0m
+[ 85%] [34m[1mGenerating Lisp code from robotnik_msgs/set_CartesianEuler_pose.srv[0m
+[ 85%] [34m[1mGenerating Javascript code from robotnik_msgs/SetByte.srv[0m
+[ 85%] [34m[1mGenerating Lisp code from robotnik_msgs/set_named_digital_output.srv[0m
+[ 85%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevatorFeedback.msg[0m
+[ 85%] [34m[1mGenerating Javascript code from robotnik_msgs/SetTransform.srv[0m
+[ 86%] [34m[1mGenerating C++ code from robotnik_msgs/get_digital_input.srv[0m
+[ 86%] [34m[1mGenerating Lisp code from robotnik_msgs/SetLaserMode.srv[0m
+[ 86%] [34m[1mGenerating Javascript code from robotnik_msgs/SetCurrent.srv[0m
+[ 86%] [34m[1mGenerating Lisp code from robotnik_msgs/ResetFromSubState.srv[0m
+[ 86%] [34m[1mGenerating Javascript code from robotnik_msgs/LoggerQuery.srv[0m
+[ 86%] [34m[1mGenerating Lisp code from robotnik_msgs/QueryAlarms.srv[0m
+[ 86%] [34m[1mGenerating Lisp code from robotnik_msgs/SetNamedDigitalOutput.srv[0m
+[ 86%] [34m[1mGenerating C++ code from robotnik_msgs/set_analog_output.srv[0m
+[ 87%] [34m[1mGenerating C++ code from robotnik_msgs/set_ptz.srv[0m
+[ 87%] [34m[1mGenerating C++ code from robotnik_msgs/set_mode.srv[0m
+[ 88%] [34m[1mGenerating Javascript code from robotnik_msgs/Record.srv[0m
+[ 88%] [34m[1mGenerating Lisp code from robotnik_msgs/InsertTask.srv[0m
+[ 89%] [34m[1mGenerating Lisp code from robotnik_msgs/SetMotorPID.srv[0m
+[ 89%] [34m[1mGenerating Lisp code from robotnik_msgs/SetMotorMode.srv[0m
+[ 89%] [34m[1mGenerating C++ code from robotnik_msgs/set_digital_output.srv[0m
+[ 89%] [34m[1mGenerating Lisp code from robotnik_msgs/SetBuzzer.srv[0m
+[ 89%] [34m[1mGenerating C++ code from robotnik_msgs/set_height.srv[0m
+[ 89%] [34m[1mGenerating C++ code from robotnik_msgs/get_mode.srv[0m
+[ 90%] [34m[1mGenerating C++ code from robotnik_msgs/enable_disable.srv[0m
+[ 90%] [34m[1mGenerating Lisp code from robotnik_msgs/SetEncoderTurns.srv[0m
+[ 90%] [34m[1mGenerating C++ code from robotnik_msgs/set_odometry.srv[0m
+[ 90%] [34m[1mGenerating Lisp code from robotnik_msgs/GetMotorsHeadingOffset.srv[0m
+[ 90%] [34m[1mGenerating Lisp code from robotnik_msgs/GetPOI.srv[0m
+[ 90%] [34m[1mGenerating Python msg __init__.py for robotnik_msgs[0m
+[ 91%] [34m[1mGenerating Lisp code from robotnik_msgs/SetString.srv[0m
+[ 91%] [34m[1mGenerating Lisp code from robotnik_msgs/SetInt16.srv[0m
+[ 91%] Built target robotnik_msgs_generate_messages_nodejs
+[ 91%] [34m[1mGenerating Lisp code from robotnik_msgs/GetPTZ.srv[0m
+[ 91%] [34m[1mGenerating Lisp code from robotnik_msgs/SetByte.srv[0m
+[ 91%] [34m[1mGenerating Lisp code from robotnik_msgs/SetCurrent.srv[0m
+[ 91%] [34m[1mGenerating C++ code from robotnik_msgs/home.srv[0m
+[ 92%] [34m[1mGenerating Lisp code from robotnik_msgs/SetTransform.srv[0m
+[ 92%] [34m[1mGenerating Lisp code from robotnik_msgs/LoggerQuery.srv[0m
+[ 93%] [34m[1mGenerating Python srv __init__.py for robotnik_msgs[0m
+[ 93%] [34m[1mGenerating Lisp code from robotnik_msgs/Record.srv[0m
+[ 93%] [34m[1mGenerating C++ code from robotnik_msgs/axis_record.srv[0m
+[ 93%] [34m[1mGenerating C++ code from robotnik_msgs/set_float_value.srv[0m
+[ 93%] [34m[1mGenerating C++ code from robotnik_msgs/SetMotorStatus.srv[0m
+[ 93%] [34m[1mGenerating C++ code from robotnik_msgs/get_alarms.srv[0m
+[ 94%] [34m[1mGenerating C++ code from robotnik_msgs/ack_alarm.srv[0m
+[ 94%] [34m[1mGenerating C++ code from robotnik_msgs/SetElevator.srv[0m
+[ 94%] [34m[1mGenerating C++ code from robotnik_msgs/set_modbus_register.srv[0m
+[ 94%] [34m[1mGenerating C++ code from robotnik_msgs/set_modbus_register_bit.srv[0m
+[ 94%] [34m[1mGenerating C++ code from robotnik_msgs/get_modbus_register.srv[0m
+[ 95%] [34m[1mGenerating C++ code from robotnik_msgs/GetBool.srv[0m
+[ 95%] Built target robotnik_msgs_generate_messages_lisp
+[ 95%] [34m[1mGenerating C++ code from robotnik_msgs/set_CartesianEuler_pose.srv[0m
+[ 95%] [34m[1mGenerating C++ code from robotnik_msgs/SetLaserMode.srv[0m
+[ 95%] [34m[1mGenerating C++ code from robotnik_msgs/ResetFromSubState.srv[0m
+[ 95%] [34m[1mGenerating C++ code from robotnik_msgs/set_named_digital_output.srv[0m
+[ 95%] Built target robotnik_msgs_generate_messages_py
+[ 96%] [34m[1mGenerating C++ code from robotnik_msgs/QueryAlarms.srv[0m
+[ 96%] [34m[1mGenerating C++ code from robotnik_msgs/SetNamedDigitalOutput.srv[0m
+[ 96%] [34m[1mGenerating C++ code from robotnik_msgs/InsertTask.srv[0m
+[ 96%] [34m[1mGenerating C++ code from robotnik_msgs/SetMotorPID.srv[0m
+[ 96%] [34m[1mGenerating C++ code from robotnik_msgs/SetMotorMode.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/SetBuzzer.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/SetEncoderTurns.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/GetMotorsHeadingOffset.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/SetString.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/SetInt16.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/GetPOI.srv[0m
+[ 97%] [34m[1mGenerating C++ code from robotnik_msgs/SetByte.srv[0m
+[ 98%] [34m[1mGenerating C++ code from robotnik_msgs/GetPTZ.srv[0m
+[ 98%] [34m[1mGenerating C++ code from robotnik_msgs/SetCurrent.srv[0m
+[100%] [34m[1mGenerating C++ code from robotnik_msgs/Record.srv[0m
+[100%] [34m[1mGenerating C++ code from robotnik_msgs/LoggerQuery.srv[0m
+[100%] [34m[1mGenerating C++ code from robotnik_msgs/SetTransform.srv[0m
+[100%] Built target robotnik_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages[0m
+[100%] Built target robotnik_msgs_generate_messages

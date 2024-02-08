@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_gazebo/lib/libwarthog_suspension_plugin.pdb"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_gazebo/lib/libwarthog_suspension_plugin.so"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/warthog_gazebo/lib/libwarthog_suspension_plugin.pdb"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/warthog_gazebo/lib/libwarthog_suspension_plugin.so"
   "CMakeFiles/warthog_suspension_plugin.dir/src/warthog_suspension_plugin.cpp.o"
 )
 

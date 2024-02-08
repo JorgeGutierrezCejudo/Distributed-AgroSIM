@@ -1,0 +1,4 @@
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/librobotnik_force_based_move.so
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/pkgconfig/robotnik_force_based_move.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_force_based_move/cmake/robotnik_force_based_moveConfig.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_force_based_move/cmake/robotnik_force_based_moveConfig-version.cmake

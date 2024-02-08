@@ -1,8 +1,8 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim
 
 Name: patrolling_sim
 Description: Description of patrolling_sim
 Version: 2.2.4
-Cflags: -I/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/include -I/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src
+Cflags: -I/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/include -I/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src
 Libs: -L${prefix}/lib -lPatrolAgent -lSSIPatrolAgent
 Requires: 

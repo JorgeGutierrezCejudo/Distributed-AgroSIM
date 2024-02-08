@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_gazebo
+
+Name: rbvogui_gazebo
+Description: Description of rbvogui_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

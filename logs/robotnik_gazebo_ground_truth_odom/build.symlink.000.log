@@ -1,0 +1,6 @@
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/librobotnik_gazebo_ground_truth_odom.so
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/pkgconfig/robotnik_gazebo_ground_truth_odom.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/python3/dist-packages/robotnik_gazebo_ground_truth_odom/__init__.py
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/python3/dist-packages/robotnik_gazebo_ground_truth_odom/cfg/__init__.py
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_gazebo_ground_truth_odom/cmake/robotnik_gazebo_ground_truth_odomConfig-version.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_gazebo_ground_truth_odom/cmake/robotnik_gazebo_ground_truth_odomConfig.cmake

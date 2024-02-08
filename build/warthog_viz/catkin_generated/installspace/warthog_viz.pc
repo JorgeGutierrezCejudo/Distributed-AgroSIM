@@ -1,4 +1,4 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install
 
 Name: warthog_viz
 Description: Description of warthog_viz

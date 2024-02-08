@@ -1,0 +1,1 @@
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_moveit_ur10/lib/pkgconfig/rbvogui_moveit_ur10.pc

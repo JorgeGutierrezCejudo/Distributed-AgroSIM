@@ -1,0 +1,4 @@
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/pkgconfig/rbvogui_pad.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/rbvogui_pad/rbvogui_pad
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/rbvogui_pad/cmake/rbvogui_padConfig.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/rbvogui_pad/cmake/rbvogui_padConfig-version.cmake

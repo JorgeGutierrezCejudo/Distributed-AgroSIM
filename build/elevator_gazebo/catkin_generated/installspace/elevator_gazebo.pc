@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install
+
+Name: elevator_gazebo
+Description: Description of elevator_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

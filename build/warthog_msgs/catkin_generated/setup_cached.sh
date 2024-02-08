@@ -7,6 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_msgs:$CMAKE_PREFIX_PATH"
-export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_msgs'
-export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog/warthog_msgs:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/warthog_msgs:$CMAKE_PREFIX_PATH"
+export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_msgs'
+export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog/warthog_msgs:$ROS_PACKAGE_PATH"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Cognitive"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Cognitive.pdb"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Cognitive"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/lib/patrolling_sim/Conscientious_Cognitive.pdb"
   "CMakeFiles/Conscientious_Cognitive.dir/src/Conscientious_Cognitive_Agent.cpp.o"
 )
 

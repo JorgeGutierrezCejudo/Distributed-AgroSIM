@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH='/home/jorgeurjc/WorkSpace/ROS1/AgroSim/devel/lib:/opt/ros/noetic/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:home/jorgeurjc/gurobi903/linux64/lib'
-export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/catkin_tools_prebuild'
-export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH='/opt/ros/noetic/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:home/jorgeurjc/gurobi903/linux64/lib'
+export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/catkin_tools_prebuild'
+export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

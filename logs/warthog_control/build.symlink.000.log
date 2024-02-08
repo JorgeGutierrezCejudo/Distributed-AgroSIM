@@ -1,3 +1,3 @@
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/lib/pkgconfig/warthog_control.pc
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/warthog_control/cmake/warthog_controlConfig-version.cmake
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/share/warthog_control/cmake/warthog_controlConfig.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/pkgconfig/warthog_control.pc
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/warthog_control/cmake/warthog_controlConfig-version.cmake
+Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/warthog_control/cmake/warthog_controlConfig.cmake

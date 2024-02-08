@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_robot_local_control
+
+Name: rbvogui_robot_local_control
+Description: Description of rbvogui_robot_local_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,4 +1,4 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/cpr_inspection_gazebo
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_inspection_gazebo
 
 Name: cpr_inspection_gazebo
 Description: Description of cpr_inspection_gazebo

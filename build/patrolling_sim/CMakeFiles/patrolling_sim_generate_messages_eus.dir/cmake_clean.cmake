@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/manifest.l"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/PosRot.l"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/UnityColor.l"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/XCordenate.l"
-  "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/srv/GoToStartPosSrv.l"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/manifest.l"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/PosRot.l"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/UnityColor.l"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/msg/XCordenate.l"
+  "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/share/roseus/ros/patrolling_sim/srv/GoToStartPosSrv.l"
   "CMakeFiles/patrolling_sim_generate_messages_eus"
 )
 

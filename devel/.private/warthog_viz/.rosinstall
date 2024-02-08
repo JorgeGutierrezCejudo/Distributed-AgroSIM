@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_viz/setup.sh
+    local-name: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/warthog_viz/setup.sh

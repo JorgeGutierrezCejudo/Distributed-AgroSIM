@@ -7,6 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/cpr_agriculture_gazebo:$CMAKE_PREFIX_PATH"
-export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/cpr_agriculture_gazebo'
-export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/cpr_gazebo/cpr_agriculture_gazebo:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_agriculture_gazebo:$CMAKE_PREFIX_PATH"
+export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/cpr_agriculture_gazebo'
+export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/cpr_gazebo/cpr_agriculture_gazebo:$ROS_PACKAGE_PATH"

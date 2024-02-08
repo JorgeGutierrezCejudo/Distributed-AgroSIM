@@ -1,4 +1,0 @@
-/opt/ros/noetic/lib/python3/dist-packages/_distutils_hack/__init__.py:18: UserWarning: Distutils was imported before Setuptools, but importing Setuptools also replaces the `distutils` module in `sys.modules`. This may lead to undesirable behaviors or errors. To avoid these issues, avoid using distutils directly, ensure that setuptools is installed in the traditional way (e.g. not an editable install), and/or make sure that setuptools is always imported before distutils.
-  warnings.warn(
-/opt/ros/noetic/lib/python3/dist-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
-  warnings.warn("Setuptools is replacing distutils.")

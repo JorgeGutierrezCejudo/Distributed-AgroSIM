@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install
+
+Name: rbvogui_moveit_ur10
+Description: Description of rbvogui_moveit_ur10
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

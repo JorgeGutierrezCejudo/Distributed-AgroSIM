@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "cpr_accessories_gazebo"
-PROJECT_SPACE_DIR = "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install"
+PROJECT_SPACE_DIR = "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install"
 PROJECT_VERSION = "0.2.8"

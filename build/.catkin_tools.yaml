@@ -1,6 +1,6 @@
-devel_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel
+devel_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel
 install: false
-install_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install
+install_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install
 profile: default
-source_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src
-workspace: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM
+source_space: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src
+workspace: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM

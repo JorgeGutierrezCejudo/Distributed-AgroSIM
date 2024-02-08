@@ -1,4 +1,4 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install
 
 Name: gazebo_race_modules
 Description: Description of gazebo_race_modules

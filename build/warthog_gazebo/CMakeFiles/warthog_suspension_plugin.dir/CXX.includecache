@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/warthog_suspension_plugin.cpp
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/warthog_suspension_plugin.cpp
 ros/ros.h
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/ros/ros.h
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/ros/ros.h
 gazebo/gazebo.hh
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/gazebo.hh
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/gazebo.hh
 gazebo/physics/physics.hh
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/physics/physics.hh
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/physics/physics.hh
 gazebo/common/common.hh
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/common/common.hh
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/common/common.hh
 gazebo/transport/transport.hh
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/transport/transport.hh
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/warthog_simulator/warthog_gazebo/src/gazebo/transport/transport.hh
 boost/bind.hpp
 -
 string

@@ -1,21 +1,21 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp
+Change Dir: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_be65b/fast && /usr/bin/make -f CMakeFiles/cmTC_be65b.dir/build.make CMakeFiles/cmTC_be65b.dir/build
-make[1]: se entra en el directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_be65b.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_be65b.dir/src.c.o   -c /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_be65b
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be65b.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_be65b.dir/src.c.o  -o cmTC_be65b 
-/usr/bin/ld: CMakeFiles/cmTC_be65b.dir/src.c.o: en la función `main':
+Run Build Command(s):/usr/bin/make cmTC_9ba21/fast && /usr/bin/make -f CMakeFiles/cmTC_9ba21.dir/build.make CMakeFiles/cmTC_9ba21.dir/build
+make[1]: se entra en el directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ba21.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_9ba21.dir/src.c.o   -c /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_9ba21
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ba21.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_9ba21.dir/src.c.o  -o cmTC_9ba21 
+/usr/bin/ld: CMakeFiles/cmTC_9ba21.dir/src.c.o: en la función `main':
 src.c:(.text+0x46): referencia a `pthread_create' sin definir
 /usr/bin/ld: src.c:(.text+0x52): referencia a `pthread_detach' sin definir
 /usr/bin/ld: src.c:(.text+0x63): referencia a `pthread_join' sin definir
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_be65b.dir/build.make:87: cmTC_be65b] Error 1
-make[1]: se sale del directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_be65b/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_9ba21.dir/build.make:87: cmTC_9ba21] Error 1
+make[1]: se sale del directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9ba21/fast] Error 2
 
 
 Source file was:
@@ -39,20 +39,20 @@ int main(void)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp
+Change Dir: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_c40fb/fast && /usr/bin/make -f CMakeFiles/cmTC_c40fb.dir/build.make CMakeFiles/cmTC_c40fb.dir/build
-make[1]: se entra en el directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c40fb.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_c40fb.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
-Linking C executable cmTC_c40fb
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c40fb.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_c40fb.dir/CheckFunctionExists.c.o  -o cmTC_c40fb  -lpthreads 
+Run Build Command(s):/usr/bin/make cmTC_80877/fast && /usr/bin/make -f CMakeFiles/cmTC_80877.dir/build.make CMakeFiles/cmTC_80877.dir/build
+make[1]: se entra en el directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80877.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_80877.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_80877
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80877.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_80877.dir/CheckFunctionExists.c.o  -o cmTC_80877  -lpthreads 
 /usr/bin/ld: no se puede encontrar -lpthreads
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_c40fb.dir/build.make:87: cmTC_c40fb] Error 1
-make[1]: se sale del directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_c40fb/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_80877.dir/build.make:87: cmTC_80877] Error 1
+make[1]: se sale del directorio '/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_simulator/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_80877/fast] Error 2
 
 
 

@@ -1,1 +1,1 @@
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/warthog_msgs/share/gennodejs/ros/warthog_msgs/msg/Lights.js
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/warthog_msgs/share/gennodejs/ros/warthog_msgs/msg/Lights.js

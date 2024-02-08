@@ -1,8 +1,0 @@
-prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/stage_ros
-
-Name: stage_ros
-Description: Description of stage_ros
-Version: 1.8.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

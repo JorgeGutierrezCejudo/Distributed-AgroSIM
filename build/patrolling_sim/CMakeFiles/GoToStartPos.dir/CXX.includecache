@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrv.h
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrv.h
 ros/service_traits.h
 -
 patrolling_sim/GoToStartPosSrvRequest.h
@@ -14,7 +14,7 @@ patrolling_sim/GoToStartPosSrvRequest.h
 patrolling_sim/GoToStartPosSrvResponse.h
 -
 
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrvRequest.h
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrvRequest.h
 string
 -
 vector
@@ -34,7 +34,7 @@ std_msgs/UInt8.h
 std_msgs/UInt8.h
 -
 
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrvResponse.h
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/patrolling_sim/include/patrolling_sim/GoToStartPosSrvResponse.h
 string
 -
 vector
@@ -50,7 +50,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/GoToStartPos.cpp
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/GoToStartPos.cpp
 ros/ros.h
 -
 move_base_msgs/MoveBaseAction.h
@@ -62,7 +62,7 @@ tf/transform_broadcaster.h
 geometry_msgs/Twist.h
 -
 patrolling_sim/GoToStartPosSrv.h
-/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/patrolling_sim/GoToStartPosSrv.h
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/patrolling_sim/GoToStartPosSrv.h
 
 /opt/ros/noetic/include/actionlib/action_definition.h
 

@@ -1,0 +1,1 @@
+/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_localization/share/rbvogui_localization/cmake/rbvogui_localizationConfig.cmake

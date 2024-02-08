@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/install")
+  set(CMAKE_INSTALL_PREFIX "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
