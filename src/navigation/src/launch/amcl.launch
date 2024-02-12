@@ -3,19 +3,19 @@
 
 <!-- Parametros para spwa muliples robots -->
   <arg name="robotname" default="robot_0" />
-  <arg name="mapname" default="vineyard" /> 
+  <arg name="mapname" default="orchad" /> 
   <arg name="use_amcl" default="false" />
   <arg name="use_move_base" default="true" />
 
 
   
       <!-- Run the map server -->
-      <!-- <node name="map_server" pkg="map_server" type="map_server" args="$(find patrolling_sim)/maps/$(arg mapname)/$(arg mapname).yaml" /> -->
+      <node name="map_server" pkg="map_server" type="map_server" args="$(find agrosim)/maps/$(arg mapname)/$(arg mapname).yaml" />
     <!-- Standard ROS navigation modules -->
 
     
     <group ns="$(arg robotname)">
-     <node name="map_server" pkg="map_server" type="map_server" args="$(find patrolling_sim)/maps/$(arg mapname)/$(arg mapname).yaml" />
+     <node name="map_server" pkg="map_server" type="map_server" args="$(find agrosim)/maps/$(arg mapname)/$(arg mapname).yaml" />
     <group if="$(arg use_amcl)">
         <!--- AMCL -->   
             

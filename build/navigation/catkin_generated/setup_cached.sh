@@ -8,5 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/navigation:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/navigation/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/navigation/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/navigation'
 export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/navigation:$ROS_PACKAGE_PATH"

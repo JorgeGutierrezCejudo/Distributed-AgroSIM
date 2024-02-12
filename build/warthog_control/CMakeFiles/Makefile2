@@ -359,8 +359,8 @@ CMakeFiles/_run_tests_warthog_control.dir/clean:
 # Target rules for target CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir
 
 # All Build rule for target.
-CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/all: CMakeFiles/tests.dir/all
 CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/all: CMakeFiles/clean_test_results_warthog_control.dir/all
+CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/all: CMakeFiles/tests.dir/all
 	$(MAKE) -f CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/build.make CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/depend
 	$(MAKE) -f CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/build.make CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_teleop.launch.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_control/CMakeFiles --progress-num= "Built target _run_tests_warthog_control_roslaunch-check_launch_teleop.launch"
@@ -524,8 +524,8 @@ CMakeFiles/clean_test_results_warthog_control.dir/clean:
 # Target rules for target CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir
 
 # All Build rule for target.
-CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/all: CMakeFiles/tests.dir/all
 CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/all: CMakeFiles/clean_test_results_warthog_control.dir/all
+CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/all: CMakeFiles/tests.dir/all
 	$(MAKE) -f CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/build.make CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/depend
 	$(MAKE) -f CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/build.make CMakeFiles/_run_tests_warthog_control_roslaunch-check_launch_control.launch.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/warthog_control/CMakeFiles --progress-num= "Built target _run_tests_warthog_control_roslaunch-check_launch_control.launch"

@@ -1,6 +1,0 @@
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/librobotnik_gazebo_set_visual.so
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/pkgconfig/robotnik_gazebo_set_visual.pc
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/python3/dist-packages/robotnik_gazebo_set_visual/__init__.py
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/lib/python3/dist-packages/robotnik_gazebo_set_visual/cfg/__init__.py
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_gazebo_set_visual/cmake/robotnik_gazebo_set_visualConfig-version.cmake
-Symlinking /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/share/robotnik_gazebo_set_visual/cmake/robotnik_gazebo_set_visualConfig.cmake

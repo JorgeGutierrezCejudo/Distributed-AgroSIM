@@ -7,6 +7,8 @@ import actionlib
 import pandas as pd
 from math import sqrt
 import numpy as np
+import cv2 as cv
+import cv_bridge as cvb
 import rospy 
 import Algorithm_assignation as Al
 import Robot_information as Ro
@@ -14,6 +16,7 @@ import Task_information as Ta
 import ConflictResolution as Con
 import matplotlib.pyplot as plt
 from std_msgs.msg import Int64MultiArray
+from sensor_msgs.msg import Image
 from move_base_msgs.msg import MoveBaseAction,MoveBaseGoal
 from geometry_msgs.msg import PolygonStamped
 
@@ -23,7 +26,7 @@ Doing_task=False
 AreNeigbour=False
 End=False
 Wait_time=0
-Waiting=20
+Waiting=5
 
 
 #Information variables of the robot and task
@@ -81,9 +84,9 @@ def Get_task_position(Task, Number_task, task_file):
 
 def Neigbour(msg):
     global Doing_task,Not_asignate,Robot
-    Distances=100
+
     if Doing_task==True:
-        print("Message recived, but I am doing a task")
+        pass
     elif Not_asignate==True:
         print("Message recived, but I am not allocated")
     else:
@@ -162,11 +165,22 @@ def Perception(Movement):
         while (a==False) :
             SayInformation(pub)
             time.sleep(1)
-            Wait_time=Wait_time+1
+            Wait_time+=1
             Status=Movement.get_state()
             if Status==3:
                 Doing_task=True
             a=(Doing_task==True) | (Wait_time>Waiting) | (Not_asignate==True)
+        subpos.unregister()
+
+    elif Robot["My"]["State"]==3:  
+        subpos=rospy.Subscriber("/robot_"+str(Robot["My"]["Id"])+"/move_base/global_costmap/footprint",PolygonStamped,UpdateMyPosition)
+        Waiting=2
+        while (a==False) :
+            SayInformation(pub)
+            time.sleep(1)
+            Status=Movement.get_state()
+            if Status==3:
+                a=True
         subpos.unregister()
     
 
@@ -229,7 +243,8 @@ def Moving (Movement):
     Goal.target_pose.header.stamp = rospy.Time.now()
     Goal.target_pose.pose.position.x = Task["Task "+str(Robot["My"]["Task Allocated"])]["X"] 
     Goal.target_pose.pose.position.y= Task["Task "+str(Robot["My"]["Task Allocated"])]["Y"] 
-    Goal.target_pose.pose.orientation.w = 1.0
+    Goal.target_pose.pose.orientation.w = 1
+    Goal.target_pose.pose.orientation.z = 0.69
 
     Movement.send_goal(Goal)
 
@@ -250,8 +265,51 @@ def SayInformation (pub):
             msg.data.append(Task["Task "+str(i)]["Id"])
             msg.data.append(Task["Task "+str(i)]["State"])
         
-    pub.publish(msg) #Ver en mi alrededor que robot estan vivos y con quien me puedo comunicar si en mi rango de comunicación.
+    pub.publish(msg) #Ver en mi alrededor que robot estan vivos y con quien me puedo comunicar si en mi rango de comunicación.        
+
+def TakePhoto (i):
+        Img=rospy.wait_for_message("robot_"+str(Robot["My"]["Id"])+"/camera/image_raw",Image,timeout=10)
+        bridge_object=cvb.CvBridge()
+        try:
+            cv_img=bridge_object.imgmsg_to_cv2(Img,desired_encoding="bgr8")
+        except cvb.CvBridgeError as e:
+            print(e)
+        path="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/maps/vineyard/Imagens/Photo_"+str(Robot["My"]["Task Allocated"])+"_"+str(i)+".jpg"
+        cv.imwrite(path,cv_img)
     
+
+def TaskPerforming():
+    print("Robot performing the task")
+    x=Task["Task "+str(Robot["My"]["Task Allocated"])]["X"] 
+    y=Task["Task "+str(Robot["My"]["Task Allocated"])]["Y"]
+    TaskDoing=actionlib.SimpleActionClient("robot_"+str(Robot["My"]["Id"])+"/move_base",MoveBaseAction)
+    TaskDoing.wait_for_server(rospy.Duration(20))
+
+    for i in range (3):
+        if Task["Task "+str(Robot["My"]["Task Allocated"])]["Type"]==1 :
+            y=y+7
+            z=0.75
+        elif Task["Task "+str(Robot["My"]["Task Allocated"])]["Type"]==2:
+            y=y-7 
+            z=-0.75
+        Goal=MoveBaseGoal()
+        Goal.target_pose.header.frame_id = "map"
+        Goal.target_pose.header.stamp = rospy.Time.now()
+        Goal.target_pose.pose.position.x = x
+        Goal.target_pose.pose.position.y= y
+        Goal.target_pose.pose.orientation.w = 1
+        Goal.target_pose.pose.orientation.z = z
+        TaskDoing.send_goal(Goal)
+        Perception(TaskDoing)
+        TakePhoto(i)
+        time.sleep(1)
+    
+    
+    print("Robot has finished the task")
+    
+
+         
+
 
 def InitBehaviur():
     #Robot obtein the information of the task and its information
@@ -260,8 +318,8 @@ def InitBehaviur():
     robot_id=int(sys.argv[1])
     # task_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/maps/vineyard/TaskConfig"+str(Experiment)+".txt"
     # robot_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/maps/vineyard/RobotConfig"+str(Experiment)+".txt"
-    task_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/maps/vineyard/TaskConfig.txt"
-    robot_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/maps/vineyard/RobotConfig.txt"
+    task_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/maps/vineyard/TaskConfig.txt"
+    robot_file="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/maps/vineyard/RobotConfig.txt"
     
 
     Get_robot_position(Robot,robot_id,robot_file)
@@ -300,13 +358,11 @@ def InitBehaviur():
 
             elif Doing_task==True:
                 print("Robot reached the task")
+                Robot["My"]["State"]=3
                 print("Robot doing the task")
-                time.sleep(3)
+                TaskPerforming()
                 #MyWord() 
                 Finish() 
-                print(Robot)
-                print(ExternalRobot)
-
         rate.sleep()
 
 

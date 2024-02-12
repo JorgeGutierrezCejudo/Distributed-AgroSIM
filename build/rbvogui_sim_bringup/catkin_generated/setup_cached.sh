@@ -8,5 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_sim_bringup:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_sim_bringup/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_sim_bringup/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/rbvogui_sim_bringup'
 export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/rbvogui_sim/rbvogui_sim_bringup:$ROS_PACKAGE_PATH"

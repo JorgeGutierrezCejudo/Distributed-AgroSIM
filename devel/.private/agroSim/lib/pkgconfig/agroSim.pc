@@ -1,0 +1,8 @@
+prefix=/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agroSim
+
+Name: agroSim
+Description: Description of agroSim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

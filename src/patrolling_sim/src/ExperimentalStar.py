@@ -31,7 +31,7 @@ os.system('sleep 3')
 
 gcmd = 'gnome-terminal '
 for i in range (0,numberRobot):
-    cmd = 'bash -c \'/bin/python3 /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/MainBehaviur.py'+' '+str(i)
+    cmd = 'bash -c \'/bin/python3 /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/MainBehaviur.py'+' '+str(i)
     cmd = cmd + "'"
     gcmd = gcmd + ' --tab -e "'+cmd+'" '
 gcmd = gcmd +'&'
@@ -42,9 +42,9 @@ os.system (gcmd)
 # cmd = cmd + "'"
 # gcmd = gcmd + ' --tab -e "'+cmd+'" '
 # gcmd = gcmd +'&'
-os.system (gcmd)
+#os.system (gcmd)
 
 os.system('sleep 3')
-roscore_cmd = 'gnome-terminal -e "bash -c \'rqt\'" &'
+roscore_cmd = 'gnome-terminal -e "bash -c \'rosrun rviz rviz -d /home/jorgeurjc/Escritorio/Distrubution.rviz\'" &'
 os.system(roscore_cmd)
 os.system('sleep 3')

@@ -8,5 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_orchard_gazebo:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_orchard_gazebo/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/cpr_orchard_gazebo/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/cpr_orchard_gazebo'
 export ROS_PACKAGE_PATH="/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/cpr_gazebo/cpr_orchard_gazebo:$ROS_PACKAGE_PATH"

@@ -1,0 +1,31 @@
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraphInfo(vertex*, uint, const char*)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:187:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  187 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph1Info(vertex*, charge*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:260:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  260 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:[m[K In function ‘[01m[Kvoid GetGraph2Info(vertex*, uint, const char*, uint)[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:318:35:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  318 |                 r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[0].dir[0][m[K);
+      |                                  [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                   [01;35m[K|[m[K   [32m[K|[m[K
+      |                                   [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                                   [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/getgraph.cpp:351:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 3 has type ‘[01m[Kchar (*)[3][m[K’ [[01;35m[K-Wformat=[m[K]
+  351 |       r=fscanf (file, "[01;35m[K%s[m[K", [32m[K&vertex_web[i].dir[j][m[K);
+      |                        [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                         [01;35m[K|[m[K   [32m[K|[m[K
+      |                         [01;35m[K|[m[K   [32m[Kchar (*)[3][m[K
+      |                         [01;35m[Kchar*[m[K
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/SSIPatrolAgent.cpp:[m[K In member function ‘[01m[Kvirtual int SSIPatrolAgent::compute_next_vertex()[m[K’:
+[01m[K/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/patrolling_sim/src/SSIPatrolAgent.cpp:450:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  450 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target robotnik_force_based_move[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/robotnik_force_based_move.dir/src/robotnik_force_based_move.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/robotnik_force_based_move/lib/librobotnik_force_based_move.so[0m
-[100%] Built target robotnik_force_based_move
