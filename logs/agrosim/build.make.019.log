@@ -1,0 +1,28 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _agrosim_generate_messages_check_deps_distributed
+[  0%] Built target _agrosim_generate_messages_check_deps_centralised
+[  0%] Built target _agrosim_generate_messages_check_deps_descentralised
+[  0%] Built target std_msgs_generate_messages_lisp
+Traceback (most recent call last):
+  File "/opt/ros/noetic/lib/python3/dist-packages/genmsg/msg_loader.py", line 287, in load_msg_from_file
+    return load_msg_from_string(msg_context, text, full_name)
+  File "/opt/ros/noetic/lib/python3/dist-packages/genmsg/msg_loader.py", line 266, in load_msg_from_string
+    field_type, name = _load_field_line(orig_line, package_name)
+  File "/opt/ros/noetic/lib/python3/dist-packages/genmsg/msg_loader.py", line 225, in _load_field_line
+    raise InvalidMsgSpec("Invalid declaration: %s"%(orig_line))
+genmsg.base.InvalidMsgSpec: Invalid declaration: int32
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py", line 54, in <module>
+    spec = load_msg_from_file(msg_context, msg_file, full_type_name)
+  File "/opt/ros/noetic/lib/python3/dist-packages/genmsg/msg_loader.py", line 289, in load_msg_from_file
+    raise InvalidMsgSpec('%s: %s'%(file_path, e))
+genmsg.base.InvalidMsgSpec: /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/neighbour.msg: Invalid declaration: int32
+[  0%] Built target std_msgs_generate_messages_cpp
+make[2]: *** [CMakeFiles/_agrosim_generate_messages_check_deps_neighbour.dir/build.make:57: CMakeFiles/_agrosim_generate_messages_check_deps_neighbour] Error 1
+make[1]: *** [CMakeFiles/Makefile2:411: CMakeFiles/_agrosim_generate_messages_check_deps_neighbour.dir/all] Error 2
+make[1]: *** Se espera a que terminen otras tareas....
+[  0%] Built target std_msgs_generate_messages_eus
+make: *** [Makefile:141: all] Error 2

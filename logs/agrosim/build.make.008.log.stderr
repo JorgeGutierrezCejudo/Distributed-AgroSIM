@@ -1,0 +1,5 @@
+The dependencies of the message/service 'agrosim/descentralised' have changed. Please rerun cmake.
+make[2]: *** [CMakeFiles/_agrosim_generate_messages_check_deps_descentralised.dir/build.make:57: CMakeFiles/_agrosim_generate_messages_check_deps_descentralised] Error 1
+make[1]: *** [CMakeFiles/Makefile2:519: CMakeFiles/_agrosim_generate_messages_check_deps_descentralised.dir/all] Error 2
+make[1]: *** Se espera a que terminen otras tareas....
+make: *** [Makefile:141: all] Error 2

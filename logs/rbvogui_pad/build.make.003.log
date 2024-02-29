@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target rbvogui_pad[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/rbvogui_pad.dir/src/rbvogui_pad.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/rbvogui_pad/lib/rbvogui_pad/rbvogui_pad[0m
-[100%] Built target rbvogui_pad

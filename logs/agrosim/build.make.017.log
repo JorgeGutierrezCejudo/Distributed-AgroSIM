@@ -1,0 +1,8 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _agrosim_generate_messages_check_deps_distributed
+The dependencies of the message/service 'agrosim/neighbour' have changed. Please rerun cmake.
+make[2]: *** [CMakeFiles/_agrosim_generate_messages_check_deps_neighbour.dir/build.make:57: CMakeFiles/_agrosim_generate_messages_check_deps_neighbour] Error 1
+make[1]: *** [CMakeFiles/Makefile2:411: CMakeFiles/_agrosim_generate_messages_check_deps_neighbour.dir/all] Error 2
+make[1]: *** Se espera a que terminen otras tareas....
+[  0%] Built target _agrosim_generate_messages_check_deps_centralised
+make: *** [Makefile:141: all] Error 2

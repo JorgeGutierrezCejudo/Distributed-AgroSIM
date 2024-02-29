@@ -1,0 +1,23 @@
+
+(cl:in-package :asdf)
+
+(defsystem "agrosim-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "centralised" :depends-on ("_package_centralised"))
+    (:file "_package_centralised" :depends-on ("_package"))
+    (:file "centralised" :depends-on ("_package_centralised"))
+    (:file "_package_centralised" :depends-on ("_package"))
+    (:file "descentralised" :depends-on ("_package_descentralised"))
+    (:file "_package_descentralised" :depends-on ("_package"))
+    (:file "descentralised" :depends-on ("_package_descentralised"))
+    (:file "_package_descentralised" :depends-on ("_package"))
+    (:file "distributed" :depends-on ("_package_distributed"))
+    (:file "_package_distributed" :depends-on ("_package"))
+    (:file "distributed" :depends-on ("_package_distributed"))
+    (:file "_package_distributed" :depends-on ("_package"))
+    (:file "neighbour" :depends-on ("_package_neighbour"))
+    (:file "_package_neighbour" :depends-on ("_package"))
+    (:file "neighbour" :depends-on ("_package_neighbour"))
+    (:file "_package_neighbour" :depends-on ("_package"))
+  ))

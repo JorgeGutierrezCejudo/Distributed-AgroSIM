@@ -1,41 +1,68 @@
 import rospy
-from std_msgs.msg import Int64MultiArray
+import numpy as np
+from agrosim.msg import descentralised,centralised,distributed
 
 
-def SayInformation (pub,Robot,ExternalRobot,Task,Number_task):
+def SayInformationDescentralised (pub,Robot,ExternalRobot,Task,Number_task):
 
-    msg=Int64MultiArray()
-    msg.data=[Robot["My"]["Id"],Robot["My"]["X"],Robot["My"]["Y"],Robot["My"]["Task Allocated"],int(Robot["My"]["Cost"])]
-#TASK ALLOCATED
+    msg=descentralised()
+    msg.Id=Robot["My"]["Id"]
+    msg.pos_x=Robot["My"]["X"]
+    msg.pos_y=Robot["My"]["Y"]
+    msg.task=Robot["My"]["Task Allocated"]
+    msg.cost=Robot["My"]["Cost"]
+    msg.others.row=len(ExternalRobot)
+    msg.others.column=Number_task
+##TASK ALLOCATED
     for j in ExternalRobot.keys():
-        msg.data.append(ExternalRobot[j]["Id"])
-        msg.data.append(ExternalRobot[j]["Task Allocated"])
-        msg.data.append(2)
+        msg.others.Id.append(ExternalRobot[j]["Id"])
+        msg.others.Task.append(ExternalRobot[j]["Task Allocated"])
+        #msg.others.costs.extend((ExternalRobot[j]["Cost"]))
 #TASK DONE
     for i in range(Number_task):
-        if Task["Task "+str(i)]["State"]>2:  
-            msg.data.append(-1)
-            msg.data.append(Task["Task "+str(i)]["Id"])
-            msg.data.append(Task["Task "+str(i)]["State"])
-        
+        if Task["Task "+str(i)]["State"]>3:  
+            msg.taskdone.append(Task["Task "+str(i)]["Id"])
+
     pub.publish(msg) #Ver en mi alrededor que robot estan vivos y con quien me puedo comunicar si en mi rango de comunicación. 
 
-def ComputeInformationOfNeibour (msg,ExternalRobot,Robot):
+def SayInformationDistributed(pub,Robot,ExternalRobot,Task,Number_task):
+
+    msg=distributed()
+    msg.Id=Robot["My"]["Id"]
+    msg.pos_x=Robot["My"]["X"]
+    msg.pos_y=Robot["My"]["Y"]
+
+    pub.publish(msg) #Ver en mi alrededor que robot estan vivos y con quien me puedo comunicar si en mi rango de comunicación.
+
+def ComputeInformationOfNeibourDescentralised (msg,ExternalRobot,Robot):
     #Update external robot information
     Repeted=False
     Conflict=False
-    stri="Robot "+str(msg.data[0]) 
+    stri="Robot "+str(msg.Id)
     if stri in ExternalRobot:
-        if (ExternalRobot["Robot "+str(msg.data[0])]["Task Allocated"] == msg.data[3]):
+        if (ExternalRobot[stri]["Task Allocated"] == msg.task):
             Repeted=True
-            if ExternalRobot["Robot "+str(msg.data[0])]["Task Allocated"] == Robot["My"]["Task Allocated"]:
+            if ExternalRobot[stri]["Task Allocated"]== Robot["My"]["Task Allocated"]:
                 Conflict=True
         else:
-            ExternalRobot["Robot "+str(msg.data[0])]={"Id":msg.data[0],"X":msg.data[1],"Y":msg.data[2],"Task Allocated":msg.data[3],"Cost":msg.data[4]}
-            if ExternalRobot["Robot "+str(msg.data[0])]["Task Allocated"] == Robot["My"]["Task Allocated"]:
+            ExternalRobot[stri]={"Id":msg.Id,"X":msg.pos_x,"Y":msg.pos_y,"Task Allocated":msg.task,"Cost":msg.cost}
+            if ExternalRobot[stri]["Task Allocated"] == Robot["My"]["Task Allocated"]:
                 Conflict=True
     else:
-        ExternalRobot["Robot "+str(msg.data[0])]={"Id":msg.data[0],"X":msg.data[1],"Y":msg.data[2],"Task Allocated":msg.data[3],"Cost":msg.data[4]}
-        if ExternalRobot["Robot "+str(msg.data[0])]["Task Allocated"] == Robot["My"]["Task Allocated"]:
+        ExternalRobot[stri]={"Id":msg.Id,"X":msg.pos_x,"Y":msg.pos_y,"Task Allocated":msg.task,"Cost":msg.cost}
+        if ExternalRobot[stri]["Task Allocated"] == Robot["My"]["Task Allocated"]:
             Conflict=True
     return Conflict,Repeted
+
+def ComputeInformationOfNeibourDistributed(msg,ExternalRobot,Robot):
+    #Update external robot information
+    Repeted=False
+    stri="Robot "+str(msg.Id)
+    if stri in ExternalRobot:
+        Repeted=True
+    else: 
+        ExternalRobot[stri]={"Id":msg.Id,"X":msg.pos_x,"Y":msg.pos_y}
+    return Repeted
+
+
+

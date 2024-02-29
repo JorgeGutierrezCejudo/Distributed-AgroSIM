@@ -1,0 +1,2 @@
+set(agrosim_MESSAGE_FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/neighbour.msg;/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/centralised.msg;/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/descentralised.msg;/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/distributed.msg")
+set(agrosim_SERVICE_FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/srv/Cost.srv;/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/srv/Decision.srv")

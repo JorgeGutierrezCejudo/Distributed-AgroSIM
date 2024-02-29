@@ -129,7 +129,55 @@ file(INSTALL DESTINATION "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/ins
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agrosim/msg" TYPE FILE FILES
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/neighbour.msg"
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/centralised.msg"
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/descentralised.msg"
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/msg/distributed.msg"
+    )
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agrosim/srv" TYPE FILE FILES
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/srv/Cost.srv"
+    "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/srv/Decision.srv"
+    )
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agrosim/cmake" TYPE FILE FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/agrosim/catkin_generated/installspace/agrosim-msg-paths.cmake")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/include/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/share/roseus/ros/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/share/common-lisp/ros/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/share/gennodejs/ros/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  execute_process(COMMAND "/usr/bin/python3" -m compileall "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/lib/python3/dist-packages/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python3/dist-packages" TYPE DIRECTORY FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/devel/.private/agrosim/lib/python3/dist-packages/agrosim")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/agrosim/catkin_generated/installspace/agrosim.pc")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agrosim/cmake" TYPE FILE FILES "/home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/build/agrosim/catkin_generated/installspace/agrosim-msg-extras.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

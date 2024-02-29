@@ -1,8 +1,9 @@
 
 import os
-numberRobot=2
+numberRobot=4
 ComunicationRange=10
 map="orchad"
+
 
 roscore_cmd = 'gnome-terminal -e "bash -c \'roscore\'" &'
 os.system(roscore_cmd)
@@ -30,6 +31,7 @@ gcmd = gcmd +'&'
 os.system (gcmd)
 os.system('sleep 3')
 
+
 gcmd = 'gnome-terminal '
 for i in range (0,numberRobot):
     cmd = 'bash -c \'/bin/python3 /home/jorgeurjc/WorkSpace/ROS1/Distributed-AgroSIM/src/agrosim/src/MainBehaviur.py'+' '+str(i)+' '+map
@@ -37,6 +39,8 @@ for i in range (0,numberRobot):
     gcmd = gcmd + ' --tab -e "'+cmd+'" '
 gcmd = gcmd +'&'
 os.system (gcmd)
+
+
 
 gcmd = 'gnome-terminal '
 cmd = 'bash -c \'/bin/python3 /home/jorgeurjc/WorkSpace/ROS1/Distributed_AgroSIM/src/patrolling_sim/src/SeeAllocationEnviroment.py'+' '+str(numberRobot)+' '+str(ComunicationRange)+' '+map

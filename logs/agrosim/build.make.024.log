@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _agrosim_generate_messages_check_deps_distributed
+[  0%] Built target _agrosim_generate_messages_check_deps_Cost
+[  0%] Built target _agrosim_generate_messages_check_deps_neighbour
+[  0%] Built target _agrosim_generate_messages_check_deps_centralised
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _agrosim_generate_messages_check_deps_descentralised
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  7%] [34m[1mGenerating Lisp code from agrosim/Cost.srv[0m
+[  7%] [34m[1mGenerating Python code from SRV agrosim/Cost[0m
+[ 10%] [34m[1mGenerating C++ code from agrosim/Cost.srv[0m
+[ 14%] [34m[1mGenerating EusLisp code from agrosim/Cost.srv[0m
+[ 28%] Built target agrosim_generate_messages_lisp
+[ 32%] [34m[1mGenerating Javascript code from agrosim/Cost.srv[0m
+[ 35%] [34m[1mGenerating Python msg __init__.py for agrosim[0m
+[ 50%] Built target agrosim_generate_messages_nodejs
+[ 67%] Built target agrosim_generate_messages_eus
+[ 71%] [34m[1mGenerating Python srv __init__.py for agrosim[0m
+[ 85%] Built target agrosim_generate_messages_cpp
+[100%] Built target agrosim_generate_messages_py
+[100%] Built target agrosim_generate_messages

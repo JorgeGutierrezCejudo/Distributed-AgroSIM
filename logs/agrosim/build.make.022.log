@@ -1,0 +1,15 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _agrosim_generate_messages_check_deps_distributed
+[  0%] Built target _agrosim_generate_messages_check_deps_neighbour
+[  0%] Built target _agrosim_generate_messages_check_deps_centralised
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _agrosim_generate_messages_check_deps_descentralised
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 22%] Built target agrosim_generate_messages_py
+[ 40%] Built target agrosim_generate_messages_lisp
+[ 59%] Built target agrosim_generate_messages_cpp
+[ 81%] Built target agrosim_generate_messages_eus
+[100%] Built target agrosim_generate_messages_nodejs
+[100%] Built target agrosim_generate_messages
